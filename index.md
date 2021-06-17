@@ -16,5 +16,7 @@ Our models could lead us to identify the worst type of injuries—having the gre
 
 ### References:
 Herzog, M. M., Mack, C. D. F., Dreyer, N. A., Wikstrom, E. A., Padua, D. A., Kocher, M. S., DiFiori, J. P., &amp; Marshall, S. W. (2019). Ankle Sprains in the National Basketball Association, 2013-2014 Through 2016-2017. The American Journal of Sports Medicine, 47(11), 2651–2658. https://doi.org/10.1177/0363546519864678
-Higgins, M. J., DeFroda, S., Yang, D. S., Brown, S. M., & Mulcahey, M. K. (2021). Professional Athlete Return to Play and Performance After Shoulder Arthroscopy Varies by Sport. Arthroscopy, sports medicine, and rehabilitation, 3(2), e391–e397. https://doi.org/10.1016/j.asmr.2020.10.001
+
+Higgins, M. J., DeFroda, S., Yang, D. S., Brown, S. M., & Mulcahey, M. K. (2021). Professional Athlete Return to Play and Performance After Shoulder Arthroscopy        Varies by Sport. Arthroscopy, sports medicine, and rehabilitation, 3(2), e391–e397. https://doi.org/10.1016/j.asmr.2020.10.001
+
 Lewis, M. (2018). It's a Hard-Knock Life: Game Load, Fatigue, and Injury Risk in the National Basketball Association. Journal of Athletic Training, 53(5), 503–509. https://doi.org/10.4085/1062-6050-243-17
