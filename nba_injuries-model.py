@@ -1,5 +1,4 @@
 import csv
-import numpy as np
 
 with open('2010-2018_player_data.csv','r') as player_csv_file:
     player_csv_reader = csv.DictReader(player_csv_file)
@@ -8,7 +7,8 @@ with open('2010-2018_player_data.csv','r') as player_csv_file:
         injury_csv_reader = csv.DictReader(injury_csv_file)
 
         with open('combined_data.csv','w') as combined_csv_file:
-            fieldnames = ['name','injury date','return date','days missed','injury type','age', 'height', 'weight', 'reinjured']
+            fieldnames = ['name','injury date','return date','days missed','injury type','age', 'height', 'weight',
+                'reinjured', 'times previously injured']
             combined_csv_writer = csv.DictWriter(combined_csv_file, fieldnames=fieldnames, delimiter=',')
 
             combined_csv_writer.writeheader()
@@ -36,6 +36,7 @@ with open('2010-2018_player_data.csv','r') as player_csv_file:
                         return_year = int(return_date[-4:])
                         return_day = int(return_date[0:2])
                         reinjured = 0
+                        num_prev_injuries = 0
                         if injury != 'Illness' and injury != 'For Rest' and injury != 'NBA Health and Safety Protocols':
                             for i in injury_list:
                                 if player_name == i['PLAYER'] and injury == i['INJURY TYPE']:
@@ -46,16 +47,42 @@ with open('2010-2018_player_data.csv','r') as player_csv_file:
                                     else:
                                         injury_month = month_dict[injury_date[2:-5]]
                                     injury_day = int(injury_date[0:2])
+
+                                    next_return_date = i['RETURNED']
+                                    if next_return_date[1].isnumeric():
+                                        next_return_month = month_dict[next_return_date[3:-5]]
+                                    else:
+                                        next_return_month = month_dict[next_return_date[2:-5]]
+                                    next_return_year = int(next_return_date[-4:])
+                                    next_return_day = int(next_return_date[0:2])
+
                                     if return_year <= injury_year:
                                         monthes_between_injuries = 12 * (injury_year - return_year)
                                         monthes_between_injuries = monthes_between_injuries + (injury_month - return_month)
+
+                                        #reinjured
                                         if monthes_between_injuries <= 12 and monthes_between_injuries >= 1:
                                             reinjured = 1
                                         if monthes_between_injuries == 0 and return_day < injury_day:
                                             reinjured = 1
 
+                                        #previous injuries
+                                        if next_return_year < return_year:
+                                            num_prev_injuries = num_prev_injuries + 1
+                                        if next_return_year == return_year:
+                                            if next_return_month < return_month:
+                                                num_prev_injuries = num_prev_injuries + 1
+                                            if next_return_month == return_month:
+                                                if next_return_day < return_day:
+                                                    num_prev_injuries = num_prev_injuries + 1
+
+
                             age = int(iline['INJURED ON'][-4:]) - int(p['birth_date'])
+                            height = p['height']
+                            feet = int(height[0])
+                            inches = int(height[2:])
+                            total_inches = feet*12 + inches
                             player_entry = {'name': iline['PLAYER'], 'injury date': iline['INJURED ON'], 'return date': iline['RETURNED'],
-                                'days missed': iline['DAYS MISSED'], 'injury type': injury_dict[iline['INJURY TYPE']], 'age': age,'height': p['height'],
-                                'weight': p['weight'], 'reinjured': reinjured}
+                                'days missed': iline['DAYS MISSED'], 'injury type': injury_dict[iline['INJURY TYPE']], 'age': age,'height': total_inches,
+                                'weight': p['weight'], 'reinjured': reinjured, 'times previously injured': num_prev_injuries}
                             combined_csv_writer.writerow(player_entry)
