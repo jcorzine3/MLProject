@@ -1,744 +1,744 @@
 name,injury date,return date,days missed,injury type,age,height,weight,reinjured,times previously injured
-Seth Curry,19 March 2021,25 March 2021,6,0,31,74,185,0,0
-Garrett Temple,13 March 2021,24 March 2021,11,0,35,78,195,0,0
-Myles Turner,22 March 2021,24 March 2021,2,0,25,83,243,0,0
-Ben McLemore,16 March 2021,19 March 2021,3,0,28,77,195,0,0
-Aaron Gordon,01 February 2021,11 March 2021,38,0,26,81,220,0,0
-Taj Gibson,28 February 2021,11 March 2021,11,0,36,81,225,0,0
-Maxi Kleber,23 February 2021,25 February 2021,2,0,29,82,220,0,0
-Goran Dragic,06 February 2021,24 February 2021,18,0,35,75,190,0,0
-Kevon Looney,03 February 2021,23 February 2021,20,0,25,81,220,0,0
-Dario Saric,05 February 2021,13 February 2021,8,0,27,82,223,0,0
-David Nwaba,31 January 2021,06 February 2021,6,0,28,76,209,0,0
-Rajon Rondo,27 January 2021,29 January 2021,2,0,35,73,186,0,0
-Alec Burks,02 January 2021,21 January 2021,19,0,30,78,214,0,0
-Kentavious Caldwell-Pope,03 January 2021,10 January 2021,7,0,28,77,205,0,0
-Jeff Teague,04 January 2021,08 January 2021,4,0,33,74,186,0,0
-Nerlens Noel,06 January 2021,08 January 2021,2,0,27,83,228,0,0
-JaVale McGee,10 September 2020,12 September 2020,2,0,32,84,270,0,0
-Jayson Tatum,12 August 2020,17 August 2020,5,0,22,80,205,0,0
-Eric Gordon,31 July 2020,12 August 2020,12,0,32,76,215,0,0
-Jarrett Allen,10 August 2020,12 August 2020,2,0,22,82,234,0,0
-Goran Dragic,06 August 2020,10 August 2020,4,0,34,75,190,1,0
-Meyers Leonard,05 February 2020,31 July 2020,177,0,28,85,245,0,0
-Seth Curry,08 March 2020,31 July 2020,145,0,30,74,185,1,0
-Garrett Temple,04 March 2020,29 July 2020,147,0,34,78,195,1,0
-Kobi Simmons,07 March 2020,09 March 2020,2,0,23,77,166,0,0
-D.J. Wilson,06 March 2020,08 March 2020,2,0,24,82,234,0,0
-Mario Hezonja,11 February 2020,23 February 2020,12,0,25,80,215,0,0
-Dario Saric,02 February 2020,21 February 2020,19,0,26,82,223,1,0
-J.J. Barea,05 February 2020,07 February 2020,2,0,36,72,185,0,0
-Jamal Murray,16 January 2020,04 February 2020,19,0,23,76,207,0,0
-Abdel Nader,15 January 2020,29 January 2020,14,0,27,78,230,0,0
-Steven Adams,22 January 2020,25 January 2020,3,0,27,84,255,0,0
-Nerlens Noel,06 January 2020,17 January 2020,11,0,26,83,228,1,0
-Alex Len,27 December 2019,28 December 2019,1,0,26,85,260,0,0
-Kyle Kuzma,11 December 2019,22 December 2019,11,0,24,81,220,0,0
-De'Aaron Fox,12 November 2019,17 December 2019,35,0,22,75,170,0,0
-Rudy Gobert,25 November 2019,27 November 2019,2,0,27,85,245,0,0
-Furkan Korkmaz,23 November 2019,25 November 2019,2,0,22,79,185,0,0
-Jahlil Okafor,17 November 2019,24 November 2019,7,0,24,83,275,0,3
-Jeremy Lamb,06 November 2019,23 November 2019,17,0,27,77,185,0,0
-Jahlil Okafor,16 November 2019,17 November 2019,1,0,24,83,275,0,2
-DeAndre Jordan,08 November 2019,10 November 2019,2,0,31,83,265,0,1
-Daniel Theis,26 October 2019,30 October 2019,4,0,27,81,215,0,0
-Bojan Bogdanovic,25 October 2019,26 October 2019,1,0,30,80,216,0,0
-D.J. Wilson,08 May 2019,17 May 2019,9,0,23,82,234,1,0
-Tony Snell,28 March 2019,20 April 2019,23,0,28,79,200,0,1
-Tony Snell,26 March 2019,28 March 2019,2,0,28,79,200,0,0
-Aron Baynes,23 March 2019,24 March 2019,1,0,33,82,260,0,0
-Kyle Lowry,14 March 2019,18 March 2019,4,0,33,72,205,0,0
-Dante Exum,07 January 2019,11 March 2019,63,0,24,78,190,0,0
-Domantas Sabonis,27 February 2019,10 March 2019,11,0,23,83,240,0,0
-DeAndre Jordan,24 February 2019,06 March 2019,10,0,31,83,265,1,0
-Jahlil Okafor,04 March 2019,06 March 2019,2,0,24,83,275,1,1
-Tyus Jones,18 January 2019,22 February 2019,35,0,23,74,195,0,0
-Jahlil Okafor,08 February 2019,12 February 2019,4,0,24,83,275,1,0
-Rudy Gay,09 February 2019,12 February 2019,3,0,33,80,230,0,0
-Jamal Murray,26 January 2019,06 February 2019,11,0,22,76,207,1,0
-David Nwaba,26 December 2018,02 February 2019,38,0,25,76,209,0,0
-Reggie Bullock,29 January 2019,31 January 2019,2,0,28,79,205,0,0
-Kyle Anderson,14 January 2019,28 January 2019,14,0,26,81,230,0,0
-Henry Ellenson,21 January 2019,25 January 2019,4,0,22,83,245,0,0
-Dewayne Dedmon,15 January 2019,19 January 2019,4,0,30,84,245,0,0
-Henry Ellenson,12 December 2018,19 January 2019,38,0,21,83,245,1,0
-Frank Ntilikina,07 January 2019,13 January 2019,6,0,21,77,190,0,0
-John Collins,23 December 2018,26 December 2018,3,0,21,82,235,0,1
-Brandon Ingram,07 December 2018,21 December 2018,14,0,21,81,190,0,1
-J.J. Barea,13 December 2018,18 December 2018,5,0,34,72,185,0,0
-Kyle Anderson,15 December 2018,17 December 2018,2,0,25,81,230,1,0
-Marquese Chriss,07 December 2018,17 December 2018,10,0,21,82,233,0,2
-Reggie Bullock,05 December 2018,15 December 2018,10,0,27,79,205,1,0
-Aron Baynes,10 December 2018,12 December 2018,2,0,32,82,260,1,1
-Aron Baynes,08 December 2018,10 December 2018,2,0,32,82,260,1,0
-Terrance Ferguson,23 November 2018,03 December 2018,10,0,20,79,184,0,0
-Avery Bradley,05 November 2018,19 November 2018,14,0,28,74,180,0,0
-Russell Westbrook,06 November 2018,17 November 2018,11,0,30,75,200,0,1
-Aaron Gordon,11 November 2018,12 November 2018,1,0,23,81,220,0,0
-Donovan Mitchell,05 November 2018,07 November 2018,2,0,22,75,211,0,0
-Marquese Chriss,16 October 2018,30 October 2018,14,0,21,82,233,1,1
-Cristiano Felicio,18 October 2018,24 October 2018,6,0,26,82,275,0,0
-George Hill,01 April 2018,09 April 2018,8,0,32,75,188,0,0
-Damian Lillard,05 April 2018,07 April 2018,2,0,28,75,195,0,0
-James Johnson,04 April 2018,06 April 2018,2,0,31,81,250,0,0
-Alex Len,28 March 2018,03 April 2018,6,0,25,85,260,0,0
-Domantas Sabonis,15 March 2018,27 March 2018,12,0,22,83,240,1,0
-John Collins,19 March 2018,23 March 2018,4,0,21,82,235,1,0
-Myles Turner,17 March 2018,19 March 2018,2,0,22,83,243,0,0
-Norman Powell,15 March 2018,18 March 2018,3,0,25,76,215,0,0
-Anthony Davis,09 March 2018,11 March 2018,2,0,25,82,253,0,0
-Russell Westbrook,08 February 2018,13 February 2018,5,0,30,75,200,1,0
-Dejounte Murray,09 February 2018,12 February 2018,3,0,22,77,170,0,0
-Harrison Barnes,05 February 2018,10 February 2018,5,0,26,80,210,0,0
-Johnathan Motley,08 February 2018,10 February 2018,2,0,23,81,238,0,0
-Marvin Williams,31 January 2018,08 February 2018,8,0,32,81,237,0,0
-Marquese Chriss,29 January 2018,31 January 2018,2,0,21,82,233,1,0
-Tyler Johnson,17 January 2018,27 January 2018,10,0,26,76,186,0,0
-DeAndre Jordan,13 January 2018,24 January 2018,11,0,30,83,265,0,0
-Brandon Ingram,19 January 2018,21 January 2018,2,0,21,81,190,1,0
-Derrick Rose,09 November 2017,18 January 2018,70,0,29,75,190,0,0
-Marco Belinelli,12 January 2018,15 January 2018,3,0,32,77,210,0,0
-Bojan Bogdanovic,06 January 2018,08 January 2018,2,0,29,80,216,0,0
-Mike Muscala,02 December 2017,02 January 2018,31,0,26,83,240,0,0
-Andre Roberson,11 December 2017,15 December 2017,4,0,26,79,210,0,0
-Nikola Jokic,02 December 2017,13 December 2017,11,0,22,82,250,0,0
-Frank Ntilikina,29 November 2017,03 December 2017,4,0,19,77,190,0,0
-Kevin Durant,24 November 2017,29 November 2017,5,0,29,81,240,0,1
-Kevin Durant,19 November 2017,22 November 2017,3,0,29,81,240,1,0
-Mike Muscala,06 November 2017,18 November 2017,12,0,26,83,240,1,0
-JaMychal Green,21 October 2017,14 November 2017,24,0,27,81,227,0,0
-Kristaps Porzingis,08 November 2017,11 November 2017,3,0,22,87,240,0,0
-Jonas Valanciunas,23 October 2017,01 November 2017,9,0,25,84,265,0,0
-Derrick Rose,21 October 2017,29 October 2017,8,0,29,75,190,1,1
-Dennis Schroder,23 October 2017,27 October 2017,4,0,24,73,172,0,0
-Malcolm Brogdon,23 October 2017,26 October 2017,3,0,25,77,215,0,0
-Alex Len,18 October 2017,20 October 2017,2,0,24,85,260,1,0
-Kawhi Leonard,16 May 2017,22 May 2017,6,0,26,79,230,0,1
-Kawhi Leonard,11 May 2017,14 May 2017,3,0,26,79,230,1,0
-Chasson Randle,06 April 2017,07 April 2017,1,0,24,74,185,0,0
-DeMarre Carroll,08 March 2017,10 March 2017,2,0,31,80,215,0,0
-Dion Waiters,08 February 2017,13 February 2017,5,0,26,76,225,0,0
-Derrick Rose,29 January 2017,06 February 2017,8,0,29,75,190,1,0
-Joe Harris,23 January 2017,01 February 2017,9,0,26,78,219,0,0
-Joakim Noah,18 January 2017,21 January 2017,3,0,32,83,230,0,0
-Ed Davis,17 January 2017,20 January 2017,3,0,28,82,240,0,0
-Nerlens Noel,16 January 2017,18 January 2017,2,0,23,83,228,0,0
-Aron Baynes,01 January 2017,08 January 2017,7,0,31,82,260,0,0
-Damian Lillard,26 December 2016,05 January 2017,10,0,26,75,195,0,0
-Marco Belinelli,31 December 2016,04 January 2017,4,0,30,77,210,1,0
-Rodney McGruder,19 December 2016,27 December 2016,8,0,25,76,205,0,0
-Evan Turner,21 December 2016,26 December 2016,5,0,28,79,220,0,0
-Nerlens Noel,14 December 2016,16 December 2016,2,0,22,83,228,1,0
-Courtney Lee,02 December 2016,06 December 2016,4,0,31,77,200,0,0
-Joakim Noah,30 November 2016,04 December 2016,4,0,31,83,230,1,0
-Jae Crowder,03 November 2016,19 November 2016,16,0,26,78,235,0,0
-Rajon Rondo,15 November 2016,19 November 2016,4,0,30,73,186,0,0
-Goran Dragic,11 November 2016,17 November 2016,6,0,30,75,190,0,0
-Paul George,12 November 2016,14 November 2016,2,0,26,81,220,0,0
-Patrick McCaw,30 October 2016,07 November 2016,8,0,21,79,185,0,0
-Lance Thomas,04 November 2016,06 November 2016,2,0,28,80,235,0,0
-Marcus Smart,26 October 2016,02 November 2016,7,0,22,76,220,0,0
-Nicolas Batum,23 April 2016,27 April 2016,4,0,28,80,200,0,0
-Justise Winslow,12 April 2016,13 April 2016,1,0,20,79,225,0,0
-Andre Iguodala,14 March 2016,05 April 2016,22,0,32,78,215,0,0
-Marvin Williams,22 March 2016,25 March 2016,3,0,30,81,237,0,0
-James Johnson,02 February 2016,19 February 2016,17,0,29,81,250,0,0
-Noah Vonleh,04 February 2016,10 February 2016,6,0,21,82,240,0,0
-Ish Smith,06 February 2016,08 February 2016,2,0,28,72,175,0,0
-Rudy Gay,07 February 2016,08 February 2016,1,0,30,80,230,0,0
-DeMarcus Cousins,30 January 2016,03 February 2016,4,0,26,83,270,0,0
-Dwight Howard,21 January 2016,27 January 2016,6,0,31,83,265,0,0
-Ian Mahinmi,22 January 2016,26 January 2016,4,0,30,83,250,0,0
-Patrick Beverley,20 January 2016,24 January 2016,4,0,28,73,185,0,0
-Danilo Gallinari,22 December 2015,02 January 2016,11,0,27,82,225,0,0
-Harrison Barnes,28 November 2015,02 January 2016,35,0,23,80,210,0,0
-James Johnson,22 December 2015,26 December 2015,4,0,28,81,250,1,0
-Julius Randle,23 December 2015,25 December 2015,2,0,21,81,250,0,0
-LaMarcus Aldridge,21 November 2015,25 November 2015,4,0,30,83,260,0,0
-Cody Zeller,20 November 2015,23 November 2015,3,0,23,84,240,0,0
-Rudy Gobert,13 November 2015,15 November 2015,2,0,23,85,245,0,1
-Rudy Gobert,12 November 2015,13 November 2015,1,0,23,85,245,0,0
-Andre Roberson,24 March 2015,07 April 2015,14,0,24,79,210,0,0
-Brandon Knight,30 March 2015,04 April 2015,5,0,24,75,189,0,1
-J.J. Barea,22 March 2015,01 April 2015,10,0,31,72,185,0,0
-Jeff Teague,27 March 2015,30 March 2015,3,0,27,74,186,0,0
-Brandon Knight,11 March 2015,25 March 2015,14,0,24,75,189,1,0
-Dewayne Dedmon,18 March 2015,25 March 2015,7,0,26,84,245,0,0
-Tobias Harris,18 March 2015,25 March 2015,7,0,23,81,235,0,1
-Anthony Davis,19 March 2015,22 March 2015,3,0,22,82,253,0,0
-Enes Kanter,20 March 2015,22 March 2015,2,0,23,83,245,0,0
-DeMarcus Cousins,27 February 2015,03 March 2015,4,0,25,83,270,1,0
-Tyson Chandler,11 February 2015,19 February 2015,8,0,33,85,240,0,0
-Tobias Harris,14 January 2015,21 January 2015,7,0,23,81,235,1,0
-Cory Joseph,26 November 2014,10 January 2015,45,0,23,75,193,0,0
-Isaiah Canaan,13 December 2014,17 December 2014,4,0,23,72,201,0,0
-Nerlens Noel,07 November 2014,13 November 2014,6,0,20,83,228,0,0
-Taj Gibson,01 November 2014,04 November 2014,3,0,29,81,225,0,0
-Dwight Howard,09 April 2014,12 April 2014,3,0,29,83,265,0,0
-Terrence Ross,02 March 2014,07 March 2014,5,0,23,79,206,0,0
-Meyers Leonard,19 February 2014,01 March 2014,10,0,22,85,245,0,0
-Nikola Vucevic,04 January 2014,06 January 2014,2,0,24,84,260,0,0
-Brook Lopez,18 November 2013,29 November 2013,11,0,25,84,275,0,0
-Tobias Harris,23 November 2013,24 November 2013,1,0,21,81,235,0,0
-Bradley Beal,06 March 2013,16 March 2013,10,0,20,77,207,0,0
-Dion Waiters,05 December 2012,18 December 2012,13,0,21,76,225,0,0
-J.J. Barea,09 March 2012,12 March 2012,3,0,28,72,185,0,1
-LaMarcus Aldridge,15 February 2012,18 February 2012,3,0,27,83,260,0,0
-J.J. Barea,27 January 2012,01 February 2012,5,0,28,72,185,1,0
-Taj Gibson,23 January 2012,27 January 2012,4,0,27,81,225,0,0
-Marvin Williams,09 January 2012,12 January 2012,3,0,26,81,237,0,0
-Garrett Temple,23 March 2011,25 March 2011,2,0,25,78,195,0,0
-LeBron James,15 January 2011,18 January 2011,3,0,27,80,250,0,0
-Doug McDermott,29 March 2021,31 March 2021,2,1,29,80,225,0,0
-Reggie Bullock,25 March 2021,29 March 2021,4,1,30,79,205,0,0
-Christian Wood,05 February 2021,17 March 2021,40,1,26,83,220,0,1
-Dario Saric,26 February 2021,28 February 2021,2,1,27,82,223,0,0
-Terry Rozier,01 February 2021,05 February 2021,4,1,27,74,190,0,0
-Christian Wood,21 January 2021,28 January 2021,7,1,26,83,220,1,0
-Danilo Gallinari,02 January 2021,22 January 2021,20,1,33,82,225,0,0
-Cameron Payne,09 January 2021,18 January 2021,9,1,27,75,185,0,0
-Josh Jackson,04 January 2021,08 January 2021,4,1,24,80,207,0,0
-James Harden,02 January 2021,04 January 2021,2,1,32,77,220,0,0
-Jahlil Okafor,28 December 2020,01 January 2021,4,1,25,83,275,0,0
-Jimmy Butler,26 December 2020,01 January 2021,6,1,31,80,236,0,0
-Giannis Antetokounmpo,05 September 2020,08 September 2020,3,1,26,83,222,0,0
-Bruno Caboclo,31 July 2020,09 August 2020,9,1,25,81,218,0,0
-Thon Maker,01 March 2020,04 March 2020,3,1,23,85,216,0,0
-Paul Millsap,01 March 2020,03 March 2020,2,1,35,80,246,0,0
-Brandon Ingram,08 February 2020,20 February 2020,12,1,23,81,190,0,0
-Daniel Theis,05 February 2020,09 February 2020,4,1,28,81,215,0,0
-Jaylen Brown,07 February 2020,09 February 2020,2,1,24,79,225,0,1
-Jerami Grant,05 February 2020,08 February 2020,3,1,26,80,210,0,0
-Rondae Hollis-Jefferson,28 January 2020,05 February 2020,8,1,25,79,220,0,0
-Jaylen Brown,22 January 2020,26 January 2020,4,1,24,79,225,1,0
-Draymond Green,06 January 2020,07 January 2020,1,1,30,79,230,0,0
-Dragan Bender,08 December 2019,26 December 2019,18,1,22,85,225,0,0
-Anthony Davis,17 December 2019,19 December 2019,2,1,26,82,253,0,0
-Danilo Gallinari,09 December 2019,11 December 2019,2,1,31,82,225,0,0
-Serge Ibaka,09 November 2019,01 December 2019,22,1,30,82,235,0,0
-Brandon Knight,20 November 2019,22 November 2019,2,1,28,75,189,0,0
-Jonathan Isaac,15 November 2019,20 November 2019,5,1,22,82,210,0,0
-Myles Turner,01 November 2019,16 November 2019,15,1,23,83,243,0,0
-D'Angelo Russell,02 November 2019,08 November 2019,6,1,23,77,195,0,0
-Alec Burks,24 October 2019,30 October 2019,6,1,28,78,214,0,0
-Rodney McGruder,22 October 2019,30 October 2019,8,1,28,76,205,0,0
-Joel Embiid,26 October 2019,28 October 2019,2,1,25,84,250,0,0
-John Henson,23 October 2019,26 October 2019,3,1,29,83,229,0,0
-Stephen Curry,10 April 2019,12 April 2019,2,1,31,75,190,0,0
-Giannis Antetokounmpo,31 March 2019,01 April 2019,1,1,25,83,222,0,1
-Josh Jackson,23 March 2019,30 March 2019,7,1,22,80,207,0,0
-Kyle Lowry,20 March 2019,24 March 2019,4,1,33,72,205,0,0
-Giannis Antetokounmpo,19 March 2019,22 March 2019,3,1,25,83,222,1,0
-Kevin Durant,13 March 2019,18 March 2019,5,1,31,81,240,0,0
-Kyle Kuzma,06 March 2019,12 March 2019,6,1,24,81,220,0,0
-Gordon Hayward,21 February 2019,23 February 2019,2,1,29,80,226,0,0
-Mike Muscala,21 February 2019,23 February 2019,2,1,28,83,240,0,0
-Elfrid Payton,06 February 2019,22 February 2019,16,1,25,76,185,0,0
-Jerami Grant,11 February 2019,22 February 2019,11,1,25,80,210,1,0
-Cedi Osman,05 February 2019,13 February 2019,8,1,24,80,210,0,0
-Julius Randle,29 January 2019,06 February 2019,8,1,25,81,250,0,0
-Zach LaVine,30 January 2019,02 February 2019,3,1,24,77,189,0,0
-Steven Adams,29 January 2019,01 February 2019,3,1,26,84,255,0,0
-Kent Bazemore,31 December 2018,30 January 2019,30,1,29,77,201,0,0
-Derrick Rose,12 January 2019,15 January 2019,3,1,31,75,190,0,1
-Christian Wood,08 January 2019,11 January 2019,3,1,24,83,220,0,0
-Derrick Rose,08 January 2019,11 January 2019,3,1,31,75,190,1,0
-Joe Harris,07 January 2019,09 January 2019,2,1,28,78,219,0,0
-Derrick Rose,30 December 2018,08 January 2019,9,1,30,75,190,1,0
-Bobby Portis,20 December 2018,06 January 2019,17,1,23,83,230,0,0
-D.J. Augustin,31 December 2018,02 January 2019,2,1,31,72,183,0,0
-Cheick Diallo,29 December 2018,31 December 2018,2,1,22,81,220,0,0
-Julius Randle,19 December 2018,21 December 2018,2,1,24,81,250,1,0
-Michael Kidd-Gilchrist,13 November 2018,26 November 2018,13,1,25,79,232,0,0
-Willy Hernangomez,21 November 2018,23 November 2018,2,1,24,83,240,0,0
-Rondae Hollis-Jefferson,16 November 2018,17 November 2018,1,1,23,79,220,0,0
-Elfrid Payton,29 October 2018,16 November 2018,18,1,24,76,185,1,0
-Jonathan Isaac,04 November 2018,14 November 2018,10,1,21,82,210,1,0
-Emmanuel Mudiay,17 October 2018,29 October 2018,12,1,22,77,200,0,0
-Mike Muscala,16 October 2018,23 October 2018,7,1,27,83,240,1,0
-Matthew Dellavedova,06 February 2018,11 April 2018,64,1,28,76,198,0,0
-Troy Daniels,06 April 2018,08 April 2018,2,1,27,76,205,0,0
-Jahlil Okafor,05 April 2018,07 April 2018,2,1,23,83,275,0,0
-Goran Dragic,04 April 2018,06 April 2018,2,1,32,75,190,0,0
-Derrick Rose,26 March 2018,01 April 2018,6,1,30,75,190,1,0
-Bam Adebayo,27 March 2018,29 March 2018,2,1,21,82,243,0,0
-Giannis Antetokounmpo,23 March 2018,25 March 2018,2,1,24,83,222,1,0
-Stephen Curry,09 March 2018,23 March 2018,14,1,30,75,190,0,1
-Tristan Thompson,05 March 2018,23 March 2018,18,1,27,81,238,0,0
-Reggie Jackson,28 December 2017,20 March 2018,82,1,27,75,208,0,0
-Kyle Kuzma,14 March 2018,16 March 2018,2,1,23,81,220,1,0
-OG Anunoby,02 March 2018,15 March 2018,13,1,21,80,232,0,0
-Jordan Bell,08 March 2018,14 March 2018,6,1,23,81,224,0,0
-Justin Anderson,14 February 2018,06 March 2018,20,1,25,78,228,0,0
-LaMarcus Aldridge,03 March 2018,05 March 2018,2,1,33,83,260,0,0
-Raul Neto,23 February 2018,02 March 2018,7,1,26,73,179,0,0
-Carmelo Anthony,08 February 2018,13 February 2018,5,1,34,80,240,0,0
-Garrett Temple,28 January 2018,30 January 2018,2,1,32,78,195,0,0
-Stephen Curry,10 January 2018,13 January 2018,3,1,30,75,190,1,0
-Anthony Davis,10 January 2018,12 January 2018,2,1,25,82,253,0,0
-Derrick Favors,10 January 2018,12 January 2018,2,1,27,82,265,0,0
-Brook Lopez,20 December 2017,03 January 2018,14,1,29,84,275,0,0
-Stephen Curry,06 December 2017,30 December 2017,24,1,29,75,190,1,0
-Evan Fournier,09 December 2017,26 December 2017,17,1,25,79,205,0,0
-Jonathan Isaac,20 November 2017,17 December 2017,27,1,20,82,210,1,0
-Frank Kaminsky,09 December 2017,11 December 2017,2,1,24,84,242,0,0
-Kristaps Porzingis,03 December 2017,06 December 2017,3,1,22,87,240,0,1
-Rondae Hollis-Jefferson,27 November 2017,02 December 2017,5,1,22,79,220,1,0
-David Nwaba,07 November 2017,01 December 2017,24,1,24,76,209,0,0
-Al-Farouq Aminu,02 November 2017,30 November 2017,28,1,27,81,220,0,0
-Meyers Leonard,01 November 2017,15 November 2017,14,1,25,85,245,0,0
-Bogdan Bogdanovic,18 October 2017,23 October 2017,5,1,25,78,205,0,0
-DeMarcus Cousins,26 March 2017,29 March 2017,3,1,27,83,270,0,0
-Brook Lopez,09 March 2017,12 March 2017,3,1,29,84,275,1,0
-Rajon Rondo,06 March 2017,08 March 2017,2,1,31,73,186,0,0
-Kristaps Porzingis,25 February 2017,01 March 2017,4,1,22,87,240,1,0
-Tyson Chandler,11 February 2017,13 February 2017,2,1,35,85,240,0,0
-DeMar DeRozan,24 January 2017,29 January 2017,5,1,28,79,221,0,0
-D.J. Augustin,24 January 2017,27 January 2017,3,1,30,72,183,0,0
-Danilo Gallinari,19 January 2017,21 January 2017,2,1,29,82,225,0,0
-Dejounte Murray,14 January 2017,19 January 2017,5,1,21,77,170,0,0
-Rajon Rondo,13 December 2016,15 December 2016,2,1,30,73,186,1,0
-Kyle O'Quinn,11 December 2016,13 December 2016,2,1,26,82,250,0,0
-Emmanuel Mudiay,08 December 2016,10 December 2016,2,1,20,77,200,0,0
-Henry Ellenson,02 December 2016,04 December 2016,2,1,19,83,245,0,0
-Gary Harris,16 November 2016,25 November 2016,9,1,22,76,210,0,0
-Christian Wood,21 November 2016,23 November 2016,2,1,21,83,220,0,0
-Myles Turner,21 November 2016,23 November 2016,2,1,20,83,243,0,0
-Jonas Valanciunas,09 May 2016,23 May 2016,14,1,24,84,265,0,0
-Stephen Curry,18 April 2016,24 April 2016,6,1,28,75,190,0,0
-Kyrie Irving,03 April 2016,05 April 2016,2,1,24,75,193,0,0
-Jae Crowder,15 March 2016,31 March 2016,16,1,26,78,235,0,0
-Alex Len,19 February 2016,21 February 2016,2,1,23,85,260,0,0
-Carmelo Anthony,13 January 2016,18 January 2016,5,1,32,80,240,0,0
-D'Angelo Russell,08 January 2016,12 January 2016,4,1,20,77,195,0,0
-Austin Rivers,26 December 2015,28 December 2015,2,1,23,76,200,0,0
-Carmelo Anthony,23 December 2015,26 December 2015,3,1,31,80,240,1,0
-Kyle O'Quinn,21 December 2015,26 December 2015,5,1,25,82,250,1,0
-Jordan Clarkson,11 December 2015,15 December 2015,4,1,23,77,194,0,0
-Klay Thompson,11 December 2015,12 December 2015,1,1,25,79,215,0,1
-J.J. Barea,28 November 2015,09 December 2015,11,1,31,72,185,0,0
-Seth Curry,09 November 2015,13 November 2015,4,1,25,74,185,0,0
-Jeremy Lamb,28 October 2015,30 October 2015,2,1,23,77,185,0,0
-Aron Baynes,24 March 2015,28 March 2015,4,1,29,82,260,0,0
-Dwight Howard,28 January 2015,25 March 2015,56,1,30,83,265,0,0
-Klay Thompson,18 March 2015,23 March 2015,5,1,25,79,215,1,0
-Alex Len,14 March 2015,21 March 2015,7,1,22,85,260,1,2
-Jusuf Nurkic,27 February 2015,13 March 2015,14,1,21,84,280,0,0
-Alex Len,07 March 2015,09 March 2015,2,1,22,85,260,1,1
-Aaron Gordon,27 February 2015,04 March 2015,5,1,20,81,220,0,0
-Kelly Olynyk,23 January 2015,04 March 2015,40,1,24,84,238,0,0
-Alex Len,06 February 2015,20 February 2015,14,1,22,85,260,1,0
-Ian Mahinmi,08 February 2015,11 February 2015,3,1,29,83,250,0,0
-Hassan Whiteside,21 January 2015,25 January 2015,4,1,26,84,265,0,0
-Joakim Noah,16 January 2015,23 January 2015,7,1,30,83,230,0,0
-DeMarcus Cousins,17 January 2015,19 January 2015,2,1,25,83,270,0,0
-Mike Conley,16 January 2015,19 January 2015,3,1,28,73,175,0,0
-Enes Kanter,03 January 2015,10 January 2015,7,1,23,83,245,0,0
-Taj Gibson,18 December 2014,22 December 2014,4,1,29,81,225,0,0
-Joakim Noah,10 December 2014,18 December 2014,8,1,29,83,230,1,0
-Derrick Favors,14 December 2014,17 December 2014,3,1,23,82,265,0,0
-Reggie Bullock,03 December 2014,13 December 2014,10,1,23,79,205,0,0
-James Johnson,21 November 2014,24 November 2014,3,1,27,81,250,0,0
-Reggie Jackson,29 October 2014,03 November 2014,5,1,24,75,208,0,0
-Mike Conley,01 February 2014,18 February 2014,17,1,27,73,175,1,0
-Tyler Zeller,14 December 2013,17 December 2013,3,1,23,84,253,0,1
-Enes Kanter,25 November 2013,29 November 2013,4,1,21,83,245,0,0
-Kyle O'Quinn,24 November 2013,26 November 2013,2,1,23,82,250,0,0
-Tyler Zeller,20 November 2013,22 November 2013,2,1,23,84,253,1,0
-LaMarcus Aldridge,29 March 2013,05 April 2013,7,1,28,83,260,0,0
-Wesley Matthews,19 February 2013,22 February 2013,3,1,27,77,220,0,0
-Stephen Curry,31 January 2013,02 February 2013,2,1,25,75,190,0,0
-Ersan Ilyasova,05 January 2013,08 January 2013,3,1,26,82,235,0,0
-Derrick Rose,10 April 2012,12 April 2012,2,1,24,75,190,0,0
-Stephen Curry,06 January 2012,20 January 2012,14,1,24,75,190,1,0
-Stephen Curry,28 December 2011,31 December 2011,3,1,23,75,190,1,0
-Joakim Noah,30 March 2011,05 April 2011,6,1,26,83,230,0,0
-Tyson Chandler,04 March 2011,09 March 2011,5,1,29,85,240,0,0
-Trevor Ariza,07 February 2011,11 February 2011,4,1,26,80,215,0,0
-Ben Simmons,20 March 2021,21 March 2021,1,2,25,82,230,0,1
-Jeremy Lamb,15 March 2021,19 March 2021,4,2,29,77,185,0,1
-Bradley Beal,13 March 2021,14 March 2021,1,2,28,77,207,0,0
-Terrence Ross,11 March 2021,14 March 2021,3,2,30,79,206,0,0
-Eric Gordon,01 March 2021,11 March 2021,10,2,33,76,215,0,0
-Jeremy Lamb,01 March 2021,03 March 2021,2,2,29,77,185,1,0
-Jaylen Brown,28 February 2021,02 March 2021,2,2,25,79,225,0,1
-Jaylen Brown,05 February 2021,09 February 2021,4,2,25,79,225,1,0
-Nerlens Noel,06 February 2021,09 February 2021,3,2,27,83,228,0,0
-Jamal Murray,06 February 2021,08 February 2021,2,2,24,76,207,0,0
-Derrick Rose,23 January 2021,27 January 2021,4,2,33,75,190,0,1
-John Wall,18 January 2021,23 January 2021,5,2,31,76,195,0,0
-Derrick Rose,10 January 2021,16 January 2021,6,2,33,75,190,1,0
-Rajon Rondo,05 January 2021,15 January 2021,10,2,35,73,186,0,0
-Ben Simmons,09 January 2021,12 January 2021,3,2,25,82,230,1,0
-Christian Wood,06 January 2021,08 January 2021,2,2,26,83,220,0,0
-LaMarcus Aldridge,30 December 2020,05 January 2021,6,2,35,83,260,0,0
-Rajon Rondo,31 December 2020,04 January 2021,4,2,34,73,186,1,0
-Emmanuel Mudiay,13 August 2020,17 August 2020,4,2,24,77,200,0,1
-Al Horford,11 August 2020,12 August 2020,1,2,34,82,245,0,1
-Emmanuel Mudiay,08 August 2020,09 August 2020,1,2,24,77,200,1,0
-Kemba Walker,21 February 2020,03 March 2020,11,2,30,73,172,0,2
-Terry Rozier,12 February 2020,20 February 2020,8,2,26,74,190,0,0
-Brandon Knight,07 February 2020,10 February 2020,3,2,29,75,189,0,1
-Kemba Walker,01 February 2020,07 February 2020,6,2,30,73,172,1,1
-Brandon Knight,17 January 2020,04 February 2020,18,2,29,75,189,1,0
-Al Horford,30 January 2020,01 February 2020,2,2,34,82,245,1,0
-Kemba Walker,18 January 2020,20 January 2020,2,2,30,73,172,1,0
-Domantas Sabonis,10 January 2020,13 January 2020,3,2,24,83,240,0,0
-Joel Embiid,31 December 2019,02 January 2020,2,2,25,84,250,0,0
-Blake Griffin,20 December 2019,23 December 2019,3,2,30,82,251,0,3
-Derrick Rose,21 December 2019,23 December 2019,2,2,31,75,190,0,0
-Blake Griffin,16 December 2019,18 December 2019,2,2,30,82,251,1,2
-Al Horford,13 December 2019,15 December 2019,2,2,33,82,245,1,3
-Patrick McCaw,21 October 2019,28 October 2019,7,2,24,79,185,0,0
-Blake Griffin,10 April 2019,20 April 2019,10,2,30,82,251,1,1
-Joel Embiid,18 April 2019,20 April 2019,2,2,25,84,250,1,2
-Al Horford,09 April 2019,14 April 2019,5,2,33,82,245,1,2
-Joel Embiid,09 April 2019,13 April 2019,4,2,25,84,250,1,1
-Draymond Green,10 April 2019,12 April 2019,2,2,29,79,230,0,0
-Blake Griffin,01 April 2019,05 April 2019,4,2,30,82,251,1,0
-Rodney McGruder,18 March 2019,03 April 2019,16,2,28,76,205,0,0
-Al Horford,30 March 2019,01 April 2019,2,2,33,82,245,1,1
-Al Horford,23 March 2019,26 March 2019,3,2,33,82,245,1,0
-Joel Embiid,21 February 2019,10 March 2019,17,2,25,84,250,1,0
-Evan Turner,23 February 2019,05 March 2019,10,2,31,79,220,0,0
-Terry Rozier,27 February 2019,01 March 2019,2,2,25,74,190,1,0
-Jeff Teague,27 February 2019,28 February 2019,1,2,31,74,186,0,0
-Kawhi Leonard,13 February 2019,22 February 2019,9,2,28,79,230,0,1
-DeMarre Carroll,11 February 2019,13 February 2019,2,2,33,80,215,0,1
-JaMychal Green,07 February 2019,09 February 2019,2,2,29,81,227,0,1
-Kawhi Leonard,07 February 2019,09 February 2019,2,2,28,79,230,1,0
-Mike Conley,01 February 2019,03 February 2019,2,2,32,73,175,0,0
-JaMychal Green,28 January 2019,30 January 2019,2,2,29,81,227,1,0
-Brandon Knight,16 January 2019,21 January 2019,5,2,28,75,189,1,0
-Jamal Crawford,15 January 2019,20 January 2019,5,2,39,77,200,0,0
-DeMarre Carroll,07 January 2019,09 January 2019,2,2,33,80,215,1,0
-Dewayne Dedmon,29 December 2018,02 January 2019,4,2,29,84,245,0,0
-Joel Embiid,30 December 2018,01 January 2019,2,2,24,84,250,1,0
-Jamal Crawford,26 December 2018,28 December 2018,2,2,38,77,200,1,1
-Al Horford,10 December 2018,23 December 2018,13,2,32,82,245,1,1
-Matthew Dellavedova,19 December 2018,21 December 2018,2,2,28,76,198,0,0
-Jamal Crawford,10 December 2018,13 December 2018,3,2,38,77,200,1,0
-Al Horford,23 November 2018,24 November 2018,1,2,32,82,245,1,0
-Derrick Rose,14 November 2018,16 November 2018,2,2,30,75,190,0,0
-Derrick Favors,28 October 2018,31 October 2018,3,2,27,82,265,0,1
-Andre Iguodala,08 April 2018,14 April 2018,6,2,34,78,215,0,1
-Andre Iguodala,31 March 2018,07 April 2018,7,2,34,78,215,1,0
-Derrick Favors,20 March 2018,22 March 2018,2,2,27,82,265,1,0
-James Harden,11 March 2018,12 March 2018,1,2,29,77,220,0,0
-Kyrie Irving,05 March 2018,08 March 2018,3,2,26,75,193,0,0
-Cody Zeller,28 February 2018,04 March 2018,4,2,26,84,240,0,0
-Lonzo Ball,24 February 2018,26 February 2018,2,2,21,78,190,0,0
-Paul George,29 December 2017,31 December 2017,2,2,27,81,220,0,0
-J.R. Smith,21 December 2017,25 December 2017,4,2,32,78,225,0,0
-Kristaps Porzingis,16 December 2017,21 December 2017,5,2,22,87,240,0,0
-Serge Ibaka,17 December 2017,20 December 2017,3,2,28,82,235,0,0
-Andre Iguodala,01 December 2017,04 December 2017,3,2,33,78,215,1,1
-Andre Iguodala,16 May 2017,20 May 2017,4,2,33,78,215,1,0
-Doug McDermott,11 April 2017,16 April 2017,5,2,25,80,225,0,0
-Carmelo Anthony,07 April 2017,12 April 2017,5,2,33,80,240,0,2
-Derrick Favors,10 April 2017,12 April 2017,2,2,26,82,265,1,0
-Andre Roberson,07 April 2017,09 April 2017,2,2,26,79,210,0,0
-Paul Millsap,07 April 2017,09 April 2017,2,2,32,80,246,0,0
-D'Angelo Russell,05 April 2017,07 April 2017,2,2,21,77,195,0,0
-P.J. Tucker,02 April 2017,04 April 2017,2,2,32,78,245,0,0
-Carmelo Anthony,25 March 2017,27 March 2017,2,2,33,80,240,1,1
-Nerlens Noel,10 March 2017,15 March 2017,5,2,23,83,228,0,0
-Carmelo Anthony,06 March 2017,08 March 2017,2,2,33,80,240,1,0
-JaMychal Green,25 January 2017,27 January 2017,2,2,27,81,227,0,0
-Patrick Patterson,20 January 2017,22 January 2017,2,2,28,81,230,0,0
-Derrick Favors,17 November 2016,14 December 2016,27,2,25,82,265,1,1
-D'Angelo Russell,22 November 2016,11 December 2016,19,2,20,77,195,1,1
-D'Angelo Russell,18 November 2016,20 November 2016,2,2,20,77,195,1,0
-Derrick Favors,24 October 2016,28 October 2016,4,2,25,82,265,1,0
-Carmelo Anthony,05 February 2016,07 February 2016,2,2,32,80,240,0,1
-Kemba Walker,03 February 2016,05 February 2016,2,2,26,73,172,0,0
-Carmelo Anthony,25 January 2016,29 January 2016,4,2,32,80,240,1,0
-Lance Thomas,19 January 2016,26 January 2016,7,2,28,80,235,0,0
-Spencer Dinwiddie,25 November 2015,27 November 2015,2,2,22,78,200,0,0
-Eric Bledsoe,23 November 2015,25 November 2015,2,2,26,73,205,0,0
-Joakim Noah,09 November 2015,13 November 2015,4,2,30,83,230,0,1
-Joakim Noah,15 April 2015,18 April 2015,3,2,30,83,230,1,0
-Carmelo Anthony,24 January 2015,28 January 2015,4,2,31,80,240,1,1
-Carmelo Anthony,04 January 2015,15 January 2015,11,2,31,80,240,1,0
-Carmelo Anthony,18 December 2014,20 December 2014,2,2,30,80,240,1,1
-Carmelo Anthony,10 December 2014,12 December 2014,2,2,30,80,240,1,0
-LeBron James,11 December 2014,12 December 2014,1,2,30,80,250,0,0
-Kyle Lowry,02 April 2014,09 April 2014,7,2,28,72,205,0,0
-Dion Waiters,31 March 2013,10 April 2013,10,2,22,76,225,0,0
-Kawhi Leonard,03 April 2013,04 April 2013,1,2,22,79,230,0,0
-Taj Gibson,02 March 2013,21 March 2013,19,2,28,81,225,0,0
-Terrence Ross,21 March 2021,30 March 2021,9,3,30,79,206,0,0
-Hassan Whiteside,25 March 2021,26 March 2021,1,3,32,84,265,0,0
-Abdel Nader,15 March 2021,18 March 2021,3,3,28,78,230,0,0
-Timothe Luwawu-Cabarrot,01 March 2021,15 March 2021,14,3,26,78,205,0,0
-Malcolm Brogdon,27 February 2021,01 March 2021,2,3,29,77,215,0,0
-Davis Bertans,25 February 2021,27 February 2021,2,3,29,82,210,0,0
-Richaun Holmes,15 February 2021,21 February 2021,6,3,28,82,245,0,0
-Doug McDermott,15 February 2021,17 February 2021,2,3,29,80,225,0,0
-Patrick Beverley,25 January 2021,10 February 2021,16,3,33,73,185,0,0
-Joel Embiid,15 January 2021,19 January 2021,4,3,27,84,250,0,0
-Mike Conley,12 August 2020,21 August 2020,9,3,33,73,175,0,1
-Anthony Davis,13 August 2020,18 August 2020,5,3,27,82,253,0,1
-Bam Adebayo,14 August 2020,18 August 2020,4,3,23,82,243,0,0
-OG Anunoby,12 August 2020,17 August 2020,5,3,23,80,232,0,0
-Eric Bledsoe,11 August 2020,12 August 2020,1,3,31,73,205,0,0
-Jerami Grant,10 August 2020,12 August 2020,2,3,26,80,210,0,0
-Doug McDermott,06 August 2020,08 August 2020,2,3,28,80,225,1,0
-Mike Conley,06 August 2020,08 August 2020,2,3,33,73,175,1,0
-Mike Scott,01 August 2020,07 August 2020,6,3,32,80,237,0,0
-Dwight Howard,05 August 2020,06 August 2020,1,3,35,83,265,0,0
-Frank Kaminsky,01 January 2020,31 July 2020,212,3,27,84,242,0,0
-Eric Gordon,07 March 2020,10 March 2020,3,3,32,76,215,0,1
-Victor Oladipo,02 March 2020,06 March 2020,4,3,28,76,210,0,0
-Serge Ibaka,28 February 2020,05 March 2020,6,3,31,82,235,0,0
-Anthony Davis,01 March 2020,03 March 2020,2,3,27,82,253,1,0
-Davis Bertans,24 February 2020,26 February 2020,2,3,28,82,210,1,0
-Tyler Johnson,03 February 2020,11 February 2020,8,3,28,76,186,0,0
-Derrick Rose,27 January 2020,29 January 2020,2,3,32,75,190,0,0
-Jae Crowder,26 January 2020,29 January 2020,3,3,30,78,235,0,0
-Kristaps Porzingis,31 December 2019,21 January 2020,21,3,24,87,240,0,0
-Brandon Ingram,13 January 2020,16 January 2020,3,3,23,81,190,0,0
-Jayson Tatum,15 January 2020,16 January 2020,1,3,22,80,205,0,0
-Daniel Theis,13 January 2020,15 January 2020,2,3,28,81,215,0,0
-Eric Gordon,09 January 2020,11 January 2020,2,3,32,76,215,1,0
-Ersan Ilyasova,10 January 2020,11 January 2020,1,3,33,82,235,0,0
-Marvin Williams,08 December 2019,17 December 2019,9,3,33,81,237,0,0
-Brandon Ingram,11 November 2019,19 November 2019,8,3,22,81,190,1,0
-Dwayne Bacon,13 November 2019,16 November 2019,3,3,24,78,222,0,0
-Terrence Ross,06 November 2019,10 November 2019,4,3,28,79,206,0,0
-Derrick Favors,28 October 2019,04 November 2019,7,3,28,82,265,0,0
-Kadeem Allen,23 October 2019,01 November 2019,9,3,26,75,192,0,0
-Kyle Korver,01 April 2019,14 April 2019,13,3,38,79,212,0,0
-Klay Thompson,09 April 2019,10 April 2019,1,3,29,79,215,0,1
-Furkan Korkmaz,25 February 2019,09 April 2019,43,3,22,79,185,0,1
-Joakim Noah,22 March 2019,23 March 2019,1,3,34,83,230,0,0
-Klay Thompson,05 March 2019,08 March 2019,3,3,29,79,215,1,0
-Eric Gordon,28 February 2019,03 March 2019,3,3,31,76,215,1,1
-Giannis Antetokounmpo,25 February 2019,27 February 2019,2,3,25,83,222,0,1
-Furkan Korkmaz,13 February 2019,21 February 2019,8,3,22,79,185,1,0
-Giannis Antetokounmpo,09 February 2019,11 February 2019,2,3,25,83,222,1,0
-Eric Gordon,04 February 2019,06 February 2019,2,3,31,76,215,1,0
-Damian Lillard,26 January 2019,30 January 2019,4,3,29,75,195,0,0
-David Nwaba,30 November 2018,12 December 2018,12,3,25,76,209,0,1
-Victor Oladipo,19 November 2018,12 December 2018,23,3,26,76,210,0,0
-Robert Covington,08 December 2018,10 December 2018,2,3,28,81,215,0,0
-Maxi Kleber,02 December 2018,04 December 2018,2,3,26,82,220,0,0
-David Nwaba,26 November 2018,28 November 2018,2,3,25,76,209,1,0
-Ersan Ilyasova,26 November 2018,28 November 2018,2,3,31,82,235,0,0
-Serge Ibaka,14 November 2018,16 November 2018,2,3,29,82,235,0,0
-Tyus Jones,23 April 2018,25 April 2018,2,3,22,74,195,0,0
-Goran Dragic,11 April 2018,14 April 2018,3,3,32,75,190,0,0
-LaMarcus Aldridge,12 March 2018,13 March 2018,1,3,33,83,260,0,1
-LaMarcus Aldridge,12 February 2018,23 February 2018,11,3,33,83,260,1,0
-Ben McLemore,26 January 2018,31 January 2018,5,3,25,77,195,0,0
-Jimmy Butler,20 January 2018,27 January 2018,7,3,29,80,236,0,0
-Giannis Antetokounmpo,20 January 2018,26 January 2018,6,3,24,83,222,0,0
-Victor Oladipo,27 December 2017,06 January 2018,10,3,25,76,210,1,0
-Jaylen Brown,27 December 2017,31 December 2017,4,3,21,79,225,0,0
-JaMychal Green,23 December 2017,30 December 2017,7,3,27,81,227,0,0
-Giannis Antetokounmpo,23 December 2017,26 December 2017,3,3,23,83,222,1,1
-Ian Mahinmi,12 December 2017,15 December 2017,3,3,31,83,250,0,0
-Giannis Antetokounmpo,22 November 2017,25 November 2017,3,3,23,83,222,1,0
-Thabo Sefolosha,17 November 2017,18 November 2017,1,3,33,79,220,0,0
-Patrick Beverley,10 November 2017,17 November 2017,7,3,29,73,185,0,0
-Rodney Hood,09 April 2017,12 April 2017,3,3,25,80,206,0,3
-Derrick Favors,08 March 2017,07 April 2017,30,3,26,82,265,0,0
-Rodney Hood,04 April 2017,07 April 2017,3,3,25,80,206,1,2
-Jahlil Okafor,20 March 2017,22 March 2017,2,3,22,83,275,0,2
-Rodney Hood,16 March 2017,20 March 2017,4,3,25,80,206,1,1
-Robert Covington,12 March 2017,14 March 2017,2,3,27,81,215,0,0
-Jahlil Okafor,04 March 2017,09 March 2017,5,3,22,83,275,1,1
-Rodney Hood,01 March 2017,05 March 2017,4,3,25,80,206,1,0
-Caris LeVert,05 February 2017,08 February 2017,3,3,23,79,203,0,0
-Ian Mahinmi,28 November 2016,08 February 2017,72,3,30,83,250,1,0
-LaMarcus Aldridge,02 February 2017,04 February 2017,2,3,32,83,260,1,0
-Jahlil Okafor,24 January 2017,30 January 2017,6,3,22,83,275,1,0
-Kent Bazemore,07 December 2016,13 December 2016,6,3,27,77,201,0,0
-Blake Griffin,10 December 2016,12 December 2016,2,3,27,82,251,0,0
-Zach LaVine,13 November 2016,15 November 2016,2,3,21,77,189,0,0
-Derrick Favors,01 April 2016,03 April 2016,2,3,25,82,265,1,0
-Hassan Whiteside,04 January 2016,06 January 2016,2,3,27,84,265,0,0
-Doug McDermott,28 December 2015,30 December 2015,2,3,23,80,225,0,0
-Nerlens Noel,27 November 2015,01 December 2015,4,3,21,83,228,0,0
-Carmelo Anthony,14 March 2013,20 March 2013,6,3,29,80,240,0,1
-Carmelo Anthony,06 March 2013,11 March 2013,5,3,29,80,240,1,0
-Eric Bledsoe,01 February 2012,11 February 2012,10,3,23,73,205,0,0
-Alex Caruso,13 March 2021,18 March 2021,5,5,27,77,186,0,0
-Nicolas Batum,15 February 2021,19 February 2021,4,5,33,80,200,0,0
-Mike Muscala,07 February 2021,10 February 2021,3,5,30,83,240,0,0
-Donovan Mitchell,27 January 2021,31 January 2021,4,5,25,75,211,0,0
-Robert Covington,29 January 2021,30 January 2021,1,5,31,81,215,0,0
-Abdel Nader,22 December 2020,05 January 2021,14,5,27,78,230,0,0
-Blake Griffin,31 December 2020,03 January 2021,3,5,31,82,251,0,0
-Mike Muscala,04 August 2020,08 August 2020,4,5,29,83,240,1,0
-Jae Crowder,07 March 2020,11 March 2020,4,5,30,78,235,0,0
-Josh Richardson,03 March 2020,10 March 2020,7,5,27,78,200,0,0
-T.J. Warren,03 February 2020,08 February 2020,5,5,27,80,230,0,0
-Malcolm Brogdon,24 January 2020,29 January 2020,5,5,28,77,215,0,0
-Patrick Beverley,13 December 2019,17 December 2019,4,5,31,73,185,0,0
-Justise Winslow,07 November 2019,27 November 2019,20,5,23,79,225,0,0
-Clint Capela,15 November 2019,18 November 2019,3,5,25,82,240,0,0
-Jonathan Isaac,10 April 2019,13 April 2019,3,5,22,82,210,0,0
-OG Anunoby,28 March 2019,05 April 2019,8,5,22,80,232,0,0
-Gordon Hayward,18 March 2019,24 March 2019,6,5,29,80,226,0,0
-Ante Zizic,03 March 2019,08 March 2019,5,5,22,83,250,0,0
-Andre Drummond,19 January 2019,25 January 2019,6,5,26,83,279,0,0
-Nerlens Noel,10 January 2019,17 January 2019,7,5,25,83,228,0,0
-Ersan Ilyasova,01 December 2018,07 December 2018,6,5,31,82,235,0,0
-Davis Bertans,19 November 2018,21 November 2018,2,5,26,82,210,0,0
-Markieff Morris,30 October 2018,02 November 2018,3,5,29,82,245,0,0
-Giannis Antetokounmpo,29 October 2018,01 November 2018,3,5,24,83,222,0,0
-Troy Daniels,19 October 2018,22 October 2018,3,5,27,76,205,0,0
-Kevin Love,26 May 2018,31 May 2018,5,5,30,82,251,0,1
-Ian Mahinmi,06 April 2018,10 April 2018,4,5,32,83,250,0,0
-Kevin Love,28 March 2018,30 March 2018,2,5,30,82,251,1,0
-Tony Bradley,13 March 2018,27 March 2018,14,5,20,83,240,0,0
-Jaylen Brown,11 March 2018,25 March 2018,14,5,22,79,225,0,0
-Aaron Gordon,09 March 2018,19 March 2018,10,5,23,81,220,0,0
-Terrance Ferguson,10 March 2018,12 March 2018,2,5,20,79,184,0,0
-Kris Dunn,20 January 2018,14 February 2018,25,5,24,76,210,0,0
-Al Horford,24 January 2018,27 January 2018,3,5,32,82,245,0,0
-Jamal Murray,17 January 2018,19 January 2018,2,5,21,76,207,0,0
-Raul Neto,13 December 2017,15 January 2018,33,5,25,73,179,0,0
-Blake Griffin,08 January 2018,11 January 2018,3,5,29,82,251,0,0
-Derrick Favors,18 December 2017,20 December 2017,2,5,26,82,265,0,0
-Steven Adams,16 December 2017,20 December 2017,4,5,24,84,255,0,1
-Austin Rivers,15 December 2017,18 December 2017,3,5,25,76,200,0,0
-Aaron Gordon,13 December 2017,15 December 2017,2,5,22,81,220,1,0
-Patrick McCaw,08 December 2017,11 December 2017,3,5,22,79,185,0,0
-Al Horford,08 November 2017,12 November 2017,4,5,31,82,245,1,0
-Myles Turner,20 October 2017,03 November 2017,14,5,21,83,243,0,0
-Kawhi Leonard,11 March 2017,13 March 2017,2,5,26,79,230,0,0
-Steven Adams,16 January 2017,23 January 2017,7,5,24,84,255,1,0
-Richaun Holmes,13 January 2017,21 January 2017,8,5,24,82,245,0,0
-Cody Zeller,02 January 2017,07 January 2017,5,5,25,84,240,0,0
-George Hill,05 January 2017,07 January 2017,2,5,31,75,188,0,0
-Richaun Holmes,23 December 2016,04 January 2017,12,5,23,82,245,1,0
-Austin Rivers,11 December 2016,14 December 2016,3,5,24,76,200,1,0
-Doug McDermott,15 November 2016,05 December 2016,20,5,24,80,225,0,1
-Al Horford,02 November 2016,19 November 2016,17,5,30,82,245,1,0
-Doug McDermott,02 November 2016,04 November 2016,2,5,24,80,225,1,0
-Kevin Love,08 June 2016,10 June 2016,2,5,28,82,251,0,0
-Aaron Gordon,08 April 2016,13 April 2016,5,5,21,81,220,0,0
-Robert Covington,12 March 2016,23 March 2016,11,5,26,81,215,0,0
-Jerami Grant,12 March 2016,17 March 2016,5,5,22,80,210,0,0
-Lance Thomas,07 February 2016,09 February 2016,2,5,28,80,235,0,0
-Cameron Payne,29 January 2016,01 February 2016,3,5,22,75,185,0,0
-Anthony Davis,25 January 2016,30 January 2016,5,5,23,82,253,0,0
-Gary Harris,03 December 2015,11 December 2015,8,5,21,76,210,0,0
-Victor Oladipo,13 November 2015,18 November 2015,5,5,23,76,210,0,0
-Patrick Beverley,06 November 2015,11 November 2015,5,5,27,73,185,0,0
-Rudy Gay,03 April 2015,07 April 2015,4,5,29,80,230,0,0
-Rodney Hood,01 April 2015,04 April 2015,3,5,23,80,206,0,0
-Marvin Williams,28 January 2015,02 February 2015,5,5,29,81,237,0,0
-Ersan Ilyasova,26 December 2014,15 January 2015,20,5,27,82,235,0,0
-Courtney Lee,01 November 2014,05 November 2014,4,5,29,77,200,0,0
-Wayne Ellington,28 October 2014,29 October 2014,1,5,27,76,200,0,0
-Stephen Curry,20 November 2013,23 November 2013,3,5,25,75,190,0,0
-George Hill,16 May 2013,18 May 2013,2,5,27,75,188,0,0
-Michael Kidd-Gilchrist,04 February 2013,08 February 2013,4,5,20,79,232,0,0
-Kyrie Irving,10 February 2012,15 February 2012,5,5,20,75,193,0,0
-Ersan Ilyasova,13 March 2011,08 April 2011,26,5,24,82,235,0,0
-Chris Paul,09 March 2011,12 March 2011,3,5,26,72,175,0,0
-LeBron James,03 March 2021,12 March 2021,9,6,37,80,250,0,0
-Draymond Green,04 March 2021,10 March 2021,6,6,31,79,230,0,0
-Seth Curry,23 February 2021,25 February 2021,2,6,31,74,185,0,0
-Abdel Nader,07 February 2021,13 February 2021,6,6,28,78,230,0,0
-Goran Dragic,14 August 2020,18 August 2020,4,6,34,75,190,0,0
-Victor Oladipo,14 August 2020,18 August 2020,4,6,28,76,210,0,0
-Danilo Gallinari,28 February 2020,2 March 2020,3,6,32,82,225,0,0
-Nerlens Noel,20 January 2020,22 January 2020,2,6,26,83,228,0,0
-Jae Crowder,29 December 2019,2 January 2020,4,6,29,78,235,0,0
-Danilo Gallinari,22 December 2019,31 December 2019,9,6,31,82,225,1,3
-Jae Crowder,14 December 2019,16 December 2019,2,6,29,78,235,1,0
-DeAndre Jordan,25 November 2019,29 November 2019,4,6,31,83,265,0,0
-D.J. Wilson,19 May 2019,21 May 2019,2,6,23,82,234,0,0
-Raul Neto,05 April 2019,14 April 2019,9,6,27,73,179,0,0
-Rudy Gobert,10 April 2019,14 April 2019,4,6,27,85,245,0,0
-Aron Baynes,09 April 2019,13 April 2019,4,6,33,82,260,0,0
-Gordon Hayward,09 April 2019,13 April 2019,4,6,29,80,226,0,0
-Danilo Gallinari,07 April 2019,10 April 2019,3,6,31,82,225,1,2
-Danilo Gallinari,30 March 2019,31 March 2019,1,6,31,82,225,1,1
-Danilo Gallinari,12 March 2019,15 March 2019,3,6,31,82,225,1,0
-DeMar DeRozan,18 January 2019,20 January 2019,2,6,30,79,221,0,0
-Joel Embiid,11 January 2019,13 January 2019,2,6,25,84,250,0,0
-J.J. Barea,05 January 2019,7 January 2019,2,6,35,72,185,0,0
-Derrick Rose,23 December 2018,26 December 2018,3,6,30,75,190,0,1
-Gary Harris,24 November 2018,30 November 2018,6,6,24,76,210,0,0
-Gordon Hayward,24 November 2018,26 November 2018,2,6,28,80,226,1,0
-Myles Turner,23 November 2018,26 November 2018,3,6,22,83,243,0,0
-Kawhi Leonard,04 November 2018,7 November 2018,3,6,27,79,230,0,0
-Derrick Rose,04 November 2018,5 November 2018,1,6,30,75,190,1,0
-Wayne Ellington,17 October 2018,27 October 2018,10,6,31,76,200,0,0
-Jared Dudley,30 March 2018,6 April 2018,7,6,33,79,225,0,0
-Eric Bledsoe,01 February 2018,2 February 2018,1,6,29,73,205,0,0
-Rodney Hood,07 December 2017,13 December 2017,6,6,25,80,206,0,1
-Rodney Hood,01 December 2017,7 December 2017,6,6,25,80,206,0,0
-Aaron Gordon,20 October 2017,24 October 2017,4,6,22,81,220,0,0
-DeMarre Carroll,11 March 2017,16 March 2017,5,6,31,80,215,0,0
-Will Barton,01 February 2017,3 February 2017,2,6,26,78,175,0,0
-Taj Gibson,29 January 2017,1 February 2017,3,6,32,81,225,0,1
-Taj Gibson,17 January 2017,20 January 2017,3,6,32,81,225,1,0
-Lance Thomas,14 November 2016,2 December 2016,18,6,28,80,235,0,0
-Will Barton,25 November 2016,27 November 2016,2,6,25,78,175,1,0
-Paul George,18 November 2016,23 November 2016,5,6,26,81,220,0,0
-Nicolas Batum,13 April 2016,17 April 2016,4,6,28,80,200,0,0
-Patrick Patterson,20 March 2016,25 March 2016,5,6,27,81,230,0,0
-Tobias Harris,07 February 2016,19 February 2016,12,6,24,81,235,0,0
-Derrick Rose,18 November 2015,24 November 2015,6,6,27,75,190,0,0
-Jeff Teague,15 November 2015,21 November 2015,6,6,27,74,186,0,0
-Dewayne Dedmon,27 March 2015,1 April 2015,5,6,26,84,245,0,0
-Taj Gibson,01 March 2015,20 March 2015,19,6,30,81,225,0,0
-Nikola Vucevic,06 March 2015,10 March 2015,4,6,25,84,260,0,0
-Victor Oladipo,08 March 2014,10 March 2014,2,6,22,76,210,0,0
-Bradley Beal,29 March 2013,31 March 2013,2,6,20,77,207,0,0
-Wilson Chandler,11 April 2011,13 April 2011,2,6,24,80,225,0,0
-Kemba Walker,27 March 2021,29 March 2021,2,7,31,73,172,0,7
-Blake Griffin,24 March 2021,25 March 2021,1,7,32,82,251,0,4
-Kemba Walker,22 March 2021,23 March 2021,1,7,31,73,172,1,6
-Blake Griffin,10 March 2021,21 March 2021,11,7,32,82,251,1,3
-Kemba Walker,17 March 2021,19 March 2021,2,7,31,73,172,1,5
-Blake Griffin,14 February 2021,5 March 2021,19,7,32,82,251,1,2
-Kemba Walker,24 February 2021,26 February 2021,2,7,31,73,172,1,4
-Kemba Walker,17 February 2021,19 February 2021,2,7,31,73,172,1,3
-Patrick McCaw,22 December 2020,19 February 2021,59,7,25,79,185,0,0
-Kemba Walker,12 February 2021,14 February 2021,2,7,31,73,172,1,2
-Derrick Rose,05 February 2021,9 February 2021,4,7,33,75,190,0,0
-James Johnson,06 February 2021,8 February 2021,2,7,34,81,250,0,0
-Kemba Walker,03 February 2021,4 February 2021,1,7,31,73,172,1,1
-Blake Griffin,27 January 2021,28 January 2021,1,7,32,82,251,1,1
-Kemba Walker,25 January 2021,27 January 2021,2,7,31,73,172,1,0
-Pascal Siakam,24 January 2021,27 January 2021,3,7,27,81,230,0,0
-Blake Griffin,23 January 2021,25 January 2021,2,7,32,82,251,1,0
-Kemba Walker,23 December 2020,17 January 2021,25,7,30,73,172,1,0
-Blake Griffin,27 December 2020,29 December 2020,2,7,31,82,251,1,0
-Rondae Hollis-Jefferson,21 August 2020,23 August 2020,2,7,25,79,220,0,0
-Kemba Walker,12 August 2020,17 August 2020,5,7,30,73,172,1,0
-Kristaps Porzingis,09 August 2020,11 August 2020,2,7,25,87,240,0,0
-Andre Roberson,23 October 2019,31 July 2020,282,7,28,79,210,0,0
-Jonathan Isaac,03 January 2020,31 July 2020,210,7,23,82,210,0,0
-D.J. Augustin,15 January 2020,21 February 2020,37,7,33,72,183,0,0
-Bruno Caboclo,14 January 2020,20 February 2020,37,7,25,81,218,0,0
-Seth Curry,03 February 2020,7 February 2020,4,7,30,74,185,0,0
-Christian Wood,20 December 2019,23 December 2019,3,7,24,83,220,0,0
-Hassan Whiteside,02 November 2019,4 November 2019,2,7,30,84,265,0,0
-Evan Turner,09 March 2019,12 March 2019,3,7,31,79,220,0,0
-Maxi Kleber,06 March 2019,10 March 2019,4,7,27,82,220,0,0
-Josh Hart,05 February 2019,7 February 2019,2,7,24,77,209,0,0
-Brandon Knight,17 October 2018,13 December 2018,57,7,27,75,189,0,0
-Pat Connaughton,10 December 2018,12 December 2018,2,7,25,77,206,0,0
-Ante Zizic,05 December 2018,7 December 2018,2,7,21,83,250,0,0
-Dwight Powell,19 November 2018,28 November 2018,9,7,27,83,240,0,0
-Bogdan Bogdanovic,17 October 2018,7 November 2018,21,7,26,78,205,0,0
-Danilo Gallinari,16 March 2017,24 March 2017,8,7,29,82,225,0,0
-Reggie Jackson,26 October 2016,2 December 2016,37,7,26,75,208,0,0
-Mike Scott,27 October 2016,30 November 2016,34,7,28,80,237,0,0
-Kevin Love,10 March 2016,13 March 2016,3,7,28,82,251,0,0
-Marcus Smart,22 November 2015,27 December 2015,35,7,21,76,220,0,0
-Joakim Noah,11 March 2015,13 March 2015,2,7,30,83,230,0,0
-Patrick Patterson,23 February 2015,24 February 2015,1,7,26,81,230,0,0
-Kemba Walker,19 January 2015,21 January 2015,2,7,25,73,172,0,0
-Nicolas Batum,19 December 2014,20 December 2014,1,7,26,80,200,0,0
-Ersan Ilyasova,09 March 2013,10 March 2013,1,7,26,82,235,0,0
-Kawhi Leonard,23 January 2013,25 January 2013,2,7,22,79,230,0,0
-Nicolas Batum,01 February 2012,4 February 2012,3,7,24,80,200,0,0
+Seth Curry,19-Mar-21,25-Mar-21,6,0,31,74,185,0,0
+Garrett Temple,13-Mar-21,24-Mar-21,11,0,35,78,195,0,0
+Myles Turner,22-Mar-21,24-Mar-21,2,0,25,83,243,0,0
+Ben McLemore,16-Mar-21,19-Mar-21,3,0,28,77,195,0,0
+Aaron Gordon,1-Feb-21,11-Mar-21,38,0,26,81,220,0,0
+Taj Gibson,28-Feb-21,11-Mar-21,11,0,36,81,225,0,0
+Maxi Kleber,23-Feb-21,25-Feb-21,2,0,29,82,220,0,0
+Goran Dragic,6-Feb-21,24-Feb-21,18,0,35,75,190,0,0
+Kevon Looney,3-Feb-21,23-Feb-21,20,0,25,81,220,0,0
+Dario Saric,5-Feb-21,13-Feb-21,8,0,27,82,223,0,0
+David Nwaba,31-Jan-21,6-Feb-21,6,0,28,76,209,0,0
+Rajon Rondo,27-Jan-21,29-Jan-21,2,0,35,73,186,0,0
+Alec Burks,2-Jan-21,21-Jan-21,19,0,30,78,214,0,0
+Kentavious Caldwell-Pope,3-Jan-21,10-Jan-21,7,0,28,77,205,0,0
+Jeff Teague,4-Jan-21,8-Jan-21,4,0,33,74,186,0,0
+Nerlens Noel,6-Jan-21,8-Jan-21,2,0,27,83,228,0,0
+JaVale McGee,10-Sep-20,12-Sep-20,2,0,32,84,270,0,0
+Jayson Tatum,12-Aug-20,17-Aug-20,5,0,22,80,205,0,0
+Eric Gordon,31-Jul-20,12-Aug-20,12,0,32,76,215,0,0
+Jarrett Allen,10-Aug-20,12-Aug-20,2,0,22,82,234,0,0
+Goran Dragic,6-Aug-20,10-Aug-20,4,0,34,75,190,1,0
+Meyers Leonard,5-Feb-20,31-Jul-20,177,0,28,85,245,0,0
+Seth Curry,8-Mar-20,31-Jul-20,145,0,30,74,185,1,0
+Garrett Temple,4-Mar-20,29-Jul-20,147,0,34,78,195,1,0
+Kobi Simmons,7-Mar-20,9-Mar-20,2,0,23,77,166,0,0
+D.J. Wilson,6-Mar-20,8-Mar-20,2,0,24,82,234,0,0
+Mario Hezonja,11-Feb-20,23-Feb-20,12,0,25,80,215,0,0
+Dario Saric,2-Feb-20,21-Feb-20,19,0,26,82,223,1,0
+J.J. Barea,5-Feb-20,7-Feb-20,2,0,36,72,185,0,0
+Jamal Murray,16-Jan-20,4-Feb-20,19,0,23,76,207,0,0
+Abdel Nader,15-Jan-20,29-Jan-20,14,0,27,78,230,0,0
+Steven Adams,22-Jan-20,25-Jan-20,3,0,27,84,255,0,0
+Nerlens Noel,6-Jan-20,17-Jan-20,11,0,26,83,228,1,0
+Alex Len,27-Dec-19,28-Dec-19,1,0,26,85,260,0,0
+Kyle Kuzma,11-Dec-19,22-Dec-19,11,0,24,81,220,0,0
+De'Aaron Fox,12-Nov-19,17-Dec-19,35,0,22,75,170,0,0
+Rudy Gobert,25-Nov-19,27-Nov-19,2,0,27,85,245,0,0
+Furkan Korkmaz,23-Nov-19,25-Nov-19,2,0,22,79,185,0,0
+Jahlil Okafor,17-Nov-19,24-Nov-19,7,0,24,83,275,0,3
+Jeremy Lamb,6-Nov-19,23-Nov-19,17,0,27,77,185,0,0
+Jahlil Okafor,16-Nov-19,17-Nov-19,1,0,24,83,275,0,2
+DeAndre Jordan,8-Nov-19,10-Nov-19,2,0,31,83,265,0,1
+Daniel Theis,26-Oct-19,30-Oct-19,4,0,27,81,215,0,0
+Bojan Bogdanovic,25-Oct-19,26-Oct-19,1,0,30,80,216,0,0
+D.J. Wilson,8-May-19,17-May-19,9,0,23,82,234,1,0
+Tony Snell,28-Mar-19,20-Apr-19,23,0,28,79,200,0,1
+Tony Snell,26-Mar-19,28-Mar-19,2,0,28,79,200,0,0
+Aron Baynes,23-Mar-19,24-Mar-19,1,0,33,82,260,0,0
+Kyle Lowry,14-Mar-19,18-Mar-19,4,0,33,72,205,0,0
+Dante Exum,7-Jan-19,11-Mar-19,63,0,24,78,190,0,0
+Domantas Sabonis,27-Feb-19,10-Mar-19,11,0,23,83,240,0,0
+DeAndre Jordan,24-Feb-19,6-Mar-19,10,0,31,83,265,1,0
+Jahlil Okafor,4-Mar-19,6-Mar-19,2,0,24,83,275,1,1
+Tyus Jones,18-Jan-19,22-Feb-19,35,0,23,74,195,0,0
+Jahlil Okafor,8-Feb-19,12-Feb-19,4,0,24,83,275,1,0
+Rudy Gay,9-Feb-19,12-Feb-19,3,0,33,80,230,0,0
+Jamal Murray,26-Jan-19,6-Feb-19,11,0,22,76,207,1,0
+David Nwaba,26-Dec-18,2-Feb-19,38,0,25,76,209,0,0
+Reggie Bullock,29-Jan-19,31-Jan-19,2,0,28,79,205,0,0
+Kyle Anderson,14-Jan-19,28-Jan-19,14,0,26,81,230,0,0
+Henry Ellenson,21-Jan-19,25-Jan-19,4,0,22,83,245,0,0
+Dewayne Dedmon,15-Jan-19,19-Jan-19,4,0,30,84,245,0,0
+Henry Ellenson,12-Dec-18,19-Jan-19,38,0,21,83,245,1,0
+Frank Ntilikina,7-Jan-19,13-Jan-19,6,0,21,77,190,0,0
+John Collins,23-Dec-18,26-Dec-18,3,0,21,82,235,0,1
+Brandon Ingram,7-Dec-18,21-Dec-18,14,0,21,81,190,0,1
+J.J. Barea,13-Dec-18,18-Dec-18,5,0,34,72,185,0,0
+Kyle Anderson,15-Dec-18,17-Dec-18,2,0,25,81,230,1,0
+Marquese Chriss,7-Dec-18,17-Dec-18,10,0,21,82,233,0,2
+Reggie Bullock,5-Dec-18,15-Dec-18,10,0,27,79,205,1,0
+Aron Baynes,10-Dec-18,12-Dec-18,2,0,32,82,260,1,1
+Aron Baynes,8-Dec-18,10-Dec-18,2,0,32,82,260,1,0
+Terrance Ferguson,23-Nov-18,3-Dec-18,10,0,20,79,184,0,0
+Avery Bradley,5-Nov-18,19-Nov-18,14,0,28,74,180,0,0
+Russell Westbrook,6-Nov-18,17-Nov-18,11,0,30,75,200,0,1
+Aaron Gordon,11-Nov-18,12-Nov-18,1,0,23,81,220,0,0
+Donovan Mitchell,5-Nov-18,7-Nov-18,2,0,22,75,211,0,0
+Marquese Chriss,16-Oct-18,30-Oct-18,14,0,21,82,233,1,1
+Cristiano Felicio,18-Oct-18,24-Oct-18,6,0,26,82,275,0,0
+George Hill,1-Apr-18,9-Apr-18,8,0,32,75,188,0,0
+Damian Lillard,5-Apr-18,7-Apr-18,2,0,28,75,195,0,0
+James Johnson,4-Apr-18,6-Apr-18,2,0,31,81,250,0,0
+Alex Len,28-Mar-18,3-Apr-18,6,0,25,85,260,0,0
+Domantas Sabonis,15-Mar-18,27-Mar-18,12,0,22,83,240,1,0
+John Collins,19-Mar-18,23-Mar-18,4,0,21,82,235,1,0
+Myles Turner,17-Mar-18,19-Mar-18,2,0,22,83,243,0,0
+Norman Powell,15-Mar-18,18-Mar-18,3,0,25,76,215,0,0
+Anthony Davis,9-Mar-18,11-Mar-18,2,0,25,82,253,0,0
+Russell Westbrook,8-Feb-18,13-Feb-18,5,0,30,75,200,1,0
+Dejounte Murray,9-Feb-18,12-Feb-18,3,0,22,77,170,0,0
+Harrison Barnes,5-Feb-18,10-Feb-18,5,0,26,80,210,0,0
+Johnathan Motley,8-Feb-18,10-Feb-18,2,0,23,81,238,0,0
+Marvin Williams,31-Jan-18,8-Feb-18,8,0,32,81,237,0,0
+Marquese Chriss,29-Jan-18,31-Jan-18,2,0,21,82,233,1,0
+Tyler Johnson,17-Jan-18,27-Jan-18,10,0,26,76,186,0,0
+DeAndre Jordan,13-Jan-18,24-Jan-18,11,0,30,83,265,0,0
+Brandon Ingram,19-Jan-18,21-Jan-18,2,0,21,81,190,1,0
+Derrick Rose,9-Nov-17,18-Jan-18,70,0,29,75,190,0,0
+Marco Belinelli,12-Jan-18,15-Jan-18,3,0,32,77,210,0,0
+Bojan Bogdanovic,6-Jan-18,8-Jan-18,2,0,29,80,216,0,0
+Mike Muscala,2-Dec-17,2-Jan-18,31,0,26,83,240,0,0
+Andre Roberson,11-Dec-17,15-Dec-17,4,0,26,79,210,0,0
+Nikola Jokic,2-Dec-17,13-Dec-17,11,0,22,82,250,0,0
+Frank Ntilikina,29-Nov-17,3-Dec-17,4,0,19,77,190,0,0
+Kevin Durant,24-Nov-17,29-Nov-17,5,0,29,81,240,0,1
+Kevin Durant,19-Nov-17,22-Nov-17,3,0,29,81,240,1,0
+Mike Muscala,6-Nov-17,18-Nov-17,12,0,26,83,240,1,0
+JaMychal Green,21-Oct-17,14-Nov-17,24,0,27,81,227,0,0
+Kristaps Porzingis,8-Nov-17,11-Nov-17,3,0,22,87,240,0,0
+Jonas Valanciunas,23-Oct-17,1-Nov-17,9,0,25,84,265,0,0
+Derrick Rose,21-Oct-17,29-Oct-17,8,0,29,75,190,1,1
+Dennis Schroder,23-Oct-17,27-Oct-17,4,0,24,73,172,0,0
+Malcolm Brogdon,23-Oct-17,26-Oct-17,3,0,25,77,215,0,0
+Alex Len,18-Oct-17,20-Oct-17,2,0,24,85,260,1,0
+Kawhi Leonard,16-May-17,22-May-17,6,0,26,79,230,0,1
+Kawhi Leonard,11-May-17,14-May-17,3,0,26,79,230,1,0
+Chasson Randle,6-Apr-17,7-Apr-17,1,0,24,74,185,0,0
+DeMarre Carroll,8-Mar-17,10-Mar-17,2,0,31,80,215,0,0
+Dion Waiters,8-Feb-17,13-Feb-17,5,0,26,76,225,0,0
+Derrick Rose,29-Jan-17,6-Feb-17,8,0,29,75,190,1,0
+Joe Harris,23-Jan-17,1-Feb-17,9,0,26,78,219,0,0
+Joakim Noah,18-Jan-17,21-Jan-17,3,0,32,83,230,0,0
+Ed Davis,17-Jan-17,20-Jan-17,3,0,28,82,240,0,0
+Nerlens Noel,16-Jan-17,18-Jan-17,2,0,23,83,228,0,0
+Aron Baynes,1-Jan-17,8-Jan-17,7,0,31,82,260,0,0
+Damian Lillard,26-Dec-16,5-Jan-17,10,0,26,75,195,0,0
+Marco Belinelli,31-Dec-16,4-Jan-17,4,0,30,77,210,1,0
+Rodney McGruder,19-Dec-16,27-Dec-16,8,0,25,76,205,0,0
+Evan Turner,21-Dec-16,26-Dec-16,5,0,28,79,220,0,0
+Nerlens Noel,14-Dec-16,16-Dec-16,2,0,22,83,228,1,0
+Courtney Lee,2-Dec-16,6-Dec-16,4,0,31,77,200,0,0
+Joakim Noah,30-Nov-16,4-Dec-16,4,0,31,83,230,1,0
+Jae Crowder,3-Nov-16,19-Nov-16,16,0,26,78,235,0,0
+Rajon Rondo,15-Nov-16,19-Nov-16,4,0,30,73,186,0,0
+Goran Dragic,11-Nov-16,17-Nov-16,6,0,30,75,190,0,0
+Paul George,12-Nov-16,14-Nov-16,2,0,26,81,220,0,0
+Patrick McCaw,30-Oct-16,7-Nov-16,8,0,21,79,185,0,0
+Lance Thomas,4-Nov-16,6-Nov-16,2,0,28,80,235,0,0
+Marcus Smart,26-Oct-16,2-Nov-16,7,0,22,76,220,0,0
+Nicolas Batum,23-Apr-16,27-Apr-16,4,0,28,80,200,0,0
+Justise Winslow,12-Apr-16,13-Apr-16,1,0,20,79,225,0,0
+Andre Iguodala,14-Mar-16,5-Apr-16,22,0,32,78,215,0,0
+Marvin Williams,22-Mar-16,25-Mar-16,3,0,30,81,237,0,0
+James Johnson,2-Feb-16,19-Feb-16,17,0,29,81,250,0,0
+Noah Vonleh,4-Feb-16,10-Feb-16,6,0,21,82,240,0,0
+Ish Smith,6-Feb-16,8-Feb-16,2,0,28,72,175,0,0
+Rudy Gay,7-Feb-16,8-Feb-16,1,0,30,80,230,0,0
+DeMarcus Cousins,30-Jan-16,3-Feb-16,4,0,26,83,270,0,0
+Dwight Howard,21-Jan-16,27-Jan-16,6,0,31,83,265,0,0
+Ian Mahinmi,22-Jan-16,26-Jan-16,4,0,30,83,250,0,0
+Patrick Beverley,20-Jan-16,24-Jan-16,4,0,28,73,185,0,0
+Danilo Gallinari,22-Dec-15,2-Jan-16,11,0,27,82,225,0,0
+Harrison Barnes,28-Nov-15,2-Jan-16,35,0,23,80,210,0,0
+James Johnson,22-Dec-15,26-Dec-15,4,0,28,81,250,1,0
+Julius Randle,23-Dec-15,25-Dec-15,2,0,21,81,250,0,0
+LaMarcus Aldridge,21-Nov-15,25-Nov-15,4,0,30,83,260,0,0
+Cody Zeller,20-Nov-15,23-Nov-15,3,0,23,84,240,0,0
+Rudy Gobert,13-Nov-15,15-Nov-15,2,0,23,85,245,0,1
+Rudy Gobert,12-Nov-15,13-Nov-15,1,0,23,85,245,0,0
+Andre Roberson,24-Mar-15,7-Apr-15,14,0,24,79,210,0,0
+Brandon Knight,30-Mar-15,4-Apr-15,5,0,24,75,189,0,1
+J.J. Barea,22-Mar-15,1-Apr-15,10,0,31,72,185,0,0
+Jeff Teague,27-Mar-15,30-Mar-15,3,0,27,74,186,0,0
+Brandon Knight,11-Mar-15,25-Mar-15,14,0,24,75,189,1,0
+Dewayne Dedmon,18-Mar-15,25-Mar-15,7,0,26,84,245,0,0
+Tobias Harris,18-Mar-15,25-Mar-15,7,0,23,81,235,0,1
+Anthony Davis,19-Mar-15,22-Mar-15,3,0,22,82,253,0,0
+Enes Kanter,20-Mar-15,22-Mar-15,2,0,23,83,245,0,0
+DeMarcus Cousins,27-Feb-15,3-Mar-15,4,0,25,83,270,1,0
+Tyson Chandler,11-Feb-15,19-Feb-15,8,0,33,85,240,0,0
+Tobias Harris,14-Jan-15,21-Jan-15,7,0,23,81,235,1,0
+Cory Joseph,26-Nov-14,10-Jan-15,45,0,23,75,193,0,0
+Isaiah Canaan,13-Dec-14,17-Dec-14,4,0,23,72,201,0,0
+Nerlens Noel,7-Nov-14,13-Nov-14,6,0,20,83,228,0,0
+Taj Gibson,1-Nov-14,4-Nov-14,3,0,29,81,225,0,0
+Dwight Howard,9-Apr-14,12-Apr-14,3,0,29,83,265,0,0
+Terrence Ross,2-Mar-14,7-Mar-14,5,0,23,79,206,0,0
+Meyers Leonard,19-Feb-14,1-Mar-14,10,0,22,85,245,0,0
+Nikola Vucevic,4-Jan-14,6-Jan-14,2,0,24,84,260,0,0
+Brook Lopez,18-Nov-13,29-Nov-13,11,0,25,84,275,0,0
+Tobias Harris,23-Nov-13,24-Nov-13,1,0,21,81,235,0,0
+Bradley Beal,6-Mar-13,16-Mar-13,10,0,20,77,207,0,0
+Dion Waiters,5-Dec-12,18-Dec-12,13,0,21,76,225,0,0
+J.J. Barea,9-Mar-12,12-Mar-12,3,0,28,72,185,0,1
+LaMarcus Aldridge,15-Feb-12,18-Feb-12,3,0,27,83,260,0,0
+J.J. Barea,27-Jan-12,1-Feb-12,5,0,28,72,185,1,0
+Taj Gibson,23-Jan-12,27-Jan-12,4,0,27,81,225,0,0
+Marvin Williams,9-Jan-12,12-Jan-12,3,0,26,81,237,0,0
+Garrett Temple,23-Mar-11,25-Mar-11,2,0,25,78,195,0,0
+LeBron James,15-Jan-11,18-Jan-11,3,0,27,80,250,0,0
+Doug McDermott,29-Mar-21,31-Mar-21,2,1,29,80,225,0,0
+Reggie Bullock,25-Mar-21,29-Mar-21,4,1,30,79,205,0,0
+Christian Wood,5-Feb-21,17-Mar-21,40,1,26,83,220,0,1
+Dario Saric,26-Feb-21,28-Feb-21,2,1,27,82,223,0,0
+Terry Rozier,1-Feb-21,5-Feb-21,4,1,27,74,190,0,0
+Christian Wood,21-Jan-21,28-Jan-21,7,1,26,83,220,1,0
+Danilo Gallinari,2-Jan-21,22-Jan-21,20,1,33,82,225,0,0
+Cameron Payne,9-Jan-21,18-Jan-21,9,1,27,75,185,0,0
+Josh Jackson,4-Jan-21,8-Jan-21,4,1,24,80,207,0,0
+James Harden,2-Jan-21,4-Jan-21,2,1,32,77,220,0,0
+Jahlil Okafor,28-Dec-20,1-Jan-21,4,1,25,83,275,0,0
+Jimmy Butler,26-Dec-20,1-Jan-21,6,1,31,80,236,0,0
+Giannis Antetokounmpo,5-Sep-20,8-Sep-20,3,1,26,83,222,0,0
+Bruno Caboclo,31-Jul-20,9-Aug-20,9,1,25,81,218,0,0
+Thon Maker,1-Mar-20,4-Mar-20,3,1,23,85,216,0,0
+Paul Millsap,1-Mar-20,3-Mar-20,2,1,35,80,246,0,0
+Brandon Ingram,8-Feb-20,20-Feb-20,12,1,23,81,190,0,0
+Daniel Theis,5-Feb-20,9-Feb-20,4,1,28,81,215,0,0
+Jaylen Brown,7-Feb-20,9-Feb-20,2,1,24,79,225,0,1
+Jerami Grant,5-Feb-20,8-Feb-20,3,1,26,80,210,0,0
+Rondae Hollis-Jefferson,28-Jan-20,5-Feb-20,8,1,25,79,220,0,0
+Jaylen Brown,22-Jan-20,26-Jan-20,4,1,24,79,225,1,0
+Draymond Green,6-Jan-20,7-Jan-20,1,1,30,79,230,0,0
+Dragan Bender,8-Dec-19,26-Dec-19,18,1,22,85,225,0,0
+Anthony Davis,17-Dec-19,19-Dec-19,2,1,26,82,253,0,0
+Danilo Gallinari,9-Dec-19,11-Dec-19,2,1,31,82,225,0,0
+Serge Ibaka,9-Nov-19,1-Dec-19,22,1,30,82,235,0,0
+Brandon Knight,20-Nov-19,22-Nov-19,2,1,28,75,189,0,0
+Jonathan Isaac,15-Nov-19,20-Nov-19,5,1,22,82,210,0,0
+Myles Turner,1-Nov-19,16-Nov-19,15,1,23,83,243,0,0
+D'Angelo Russell,2-Nov-19,8-Nov-19,6,1,23,77,195,0,0
+Alec Burks,24-Oct-19,30-Oct-19,6,1,28,78,214,0,0
+Rodney McGruder,22-Oct-19,30-Oct-19,8,1,28,76,205,0,0
+Joel Embiid,26-Oct-19,28-Oct-19,2,1,25,84,250,0,0
+John Henson,23-Oct-19,26-Oct-19,3,1,29,83,229,0,0
+Stephen Curry,10-Apr-19,12-Apr-19,2,1,31,75,190,0,0
+Giannis Antetokounmpo,31-Mar-19,1-Apr-19,1,1,25,83,222,0,1
+Josh Jackson,23-Mar-19,30-Mar-19,7,1,22,80,207,0,0
+Kyle Lowry,20-Mar-19,24-Mar-19,4,1,33,72,205,0,0
+Giannis Antetokounmpo,19-Mar-19,22-Mar-19,3,1,25,83,222,1,0
+Kevin Durant,13-Mar-19,18-Mar-19,5,1,31,81,240,0,0
+Kyle Kuzma,6-Mar-19,12-Mar-19,6,1,24,81,220,0,0
+Gordon Hayward,21-Feb-19,23-Feb-19,2,1,29,80,226,0,0
+Mike Muscala,21-Feb-19,23-Feb-19,2,1,28,83,240,0,0
+Elfrid Payton,6-Feb-19,22-Feb-19,16,1,25,76,185,0,0
+Jerami Grant,11-Feb-19,22-Feb-19,11,1,25,80,210,1,0
+Cedi Osman,5-Feb-19,13-Feb-19,8,1,24,80,210,0,0
+Julius Randle,29-Jan-19,6-Feb-19,8,1,25,81,250,0,0
+Zach LaVine,30-Jan-19,2-Feb-19,3,1,24,77,189,0,0
+Steven Adams,29-Jan-19,1-Feb-19,3,1,26,84,255,0,0
+Kent Bazemore,31-Dec-18,30-Jan-19,30,1,29,77,201,0,0
+Derrick Rose,12-Jan-19,15-Jan-19,3,1,31,75,190,0,1
+Christian Wood,8-Jan-19,11-Jan-19,3,1,24,83,220,0,0
+Derrick Rose,8-Jan-19,11-Jan-19,3,1,31,75,190,1,0
+Joe Harris,7-Jan-19,9-Jan-19,2,1,28,78,219,0,0
+Derrick Rose,30-Dec-18,8-Jan-19,9,1,30,75,190,1,0
+Bobby Portis,20-Dec-18,6-Jan-19,17,1,23,83,230,0,0
+D.J. Augustin,31-Dec-18,2-Jan-19,2,1,31,72,183,0,0
+Cheick Diallo,29-Dec-18,31-Dec-18,2,1,22,81,220,0,0
+Julius Randle,19-Dec-18,21-Dec-18,2,1,24,81,250,1,0
+Michael Kidd-Gilchrist,13-Nov-18,26-Nov-18,13,1,25,79,232,0,0
+Willy Hernangomez,21-Nov-18,23-Nov-18,2,1,24,83,240,0,0
+Rondae Hollis-Jefferson,16-Nov-18,17-Nov-18,1,1,23,79,220,0,0
+Elfrid Payton,29-Oct-18,16-Nov-18,18,1,24,76,185,1,0
+Jonathan Isaac,4-Nov-18,14-Nov-18,10,1,21,82,210,1,0
+Emmanuel Mudiay,17-Oct-18,29-Oct-18,12,1,22,77,200,0,0
+Mike Muscala,16-Oct-18,23-Oct-18,7,1,27,83,240,1,0
+Matthew Dellavedova,6-Feb-18,11-Apr-18,64,1,28,76,198,0,0
+Troy Daniels,6-Apr-18,8-Apr-18,2,1,27,76,205,0,0
+Jahlil Okafor,5-Apr-18,7-Apr-18,2,1,23,83,275,0,0
+Goran Dragic,4-Apr-18,6-Apr-18,2,1,32,75,190,0,0
+Derrick Rose,26-Mar-18,1-Apr-18,6,1,30,75,190,1,0
+Bam Adebayo,27-Mar-18,29-Mar-18,2,1,21,82,243,0,0
+Giannis Antetokounmpo,23-Mar-18,25-Mar-18,2,1,24,83,222,1,0
+Stephen Curry,9-Mar-18,23-Mar-18,14,1,30,75,190,0,1
+Tristan Thompson,5-Mar-18,23-Mar-18,18,1,27,81,238,0,0
+Reggie Jackson,28-Dec-17,20-Mar-18,82,1,27,75,208,0,0
+Kyle Kuzma,14-Mar-18,16-Mar-18,2,1,23,81,220,1,0
+OG Anunoby,2-Mar-18,15-Mar-18,13,1,21,80,232,0,0
+Jordan Bell,8-Mar-18,14-Mar-18,6,1,23,81,224,0,0
+Justin Anderson,14-Feb-18,6-Mar-18,20,1,25,78,228,0,0
+LaMarcus Aldridge,3-Mar-18,5-Mar-18,2,1,33,83,260,0,0
+Raul Neto,23-Feb-18,2-Mar-18,7,1,26,73,179,0,0
+Carmelo Anthony,8-Feb-18,13-Feb-18,5,1,34,80,240,0,0
+Garrett Temple,28-Jan-18,30-Jan-18,2,1,32,78,195,0,0
+Stephen Curry,10-Jan-18,13-Jan-18,3,1,30,75,190,1,0
+Anthony Davis,10-Jan-18,12-Jan-18,2,1,25,82,253,0,0
+Derrick Favors,10-Jan-18,12-Jan-18,2,1,27,82,265,0,0
+Brook Lopez,20-Dec-17,3-Jan-18,14,1,29,84,275,0,0
+Stephen Curry,6-Dec-17,30-Dec-17,24,1,29,75,190,1,0
+Evan Fournier,9-Dec-17,26-Dec-17,17,1,25,79,205,0,0
+Jonathan Isaac,20-Nov-17,17-Dec-17,27,1,20,82,210,1,0
+Frank Kaminsky,9-Dec-17,11-Dec-17,2,1,24,84,242,0,0
+Kristaps Porzingis,3-Dec-17,6-Dec-17,3,1,22,87,240,0,1
+Rondae Hollis-Jefferson,27-Nov-17,2-Dec-17,5,1,22,79,220,1,0
+David Nwaba,7-Nov-17,1-Dec-17,24,1,24,76,209,0,0
+Al-Farouq Aminu,2-Nov-17,30-Nov-17,28,1,27,81,220,0,0
+Meyers Leonard,1-Nov-17,15-Nov-17,14,1,25,85,245,0,0
+Bogdan Bogdanovic,18-Oct-17,23-Oct-17,5,1,25,78,205,0,0
+DeMarcus Cousins,26-Mar-17,29-Mar-17,3,1,27,83,270,0,0
+Brook Lopez,9-Mar-17,12-Mar-17,3,1,29,84,275,1,0
+Rajon Rondo,6-Mar-17,8-Mar-17,2,1,31,73,186,0,0
+Kristaps Porzingis,25-Feb-17,1-Mar-17,4,1,22,87,240,1,0
+Tyson Chandler,11-Feb-17,13-Feb-17,2,1,35,85,240,0,0
+DeMar DeRozan,24-Jan-17,29-Jan-17,5,1,28,79,221,0,0
+D.J. Augustin,24-Jan-17,27-Jan-17,3,1,30,72,183,0,0
+Danilo Gallinari,19-Jan-17,21-Jan-17,2,1,29,82,225,0,0
+Dejounte Murray,14-Jan-17,19-Jan-17,5,1,21,77,170,0,0
+Rajon Rondo,13-Dec-16,15-Dec-16,2,1,30,73,186,1,0
+Kyle O'Quinn,11-Dec-16,13-Dec-16,2,1,26,82,250,0,0
+Emmanuel Mudiay,8-Dec-16,10-Dec-16,2,1,20,77,200,0,0
+Henry Ellenson,2-Dec-16,4-Dec-16,2,1,19,83,245,0,0
+Gary Harris,16-Nov-16,25-Nov-16,9,1,22,76,210,0,0
+Christian Wood,21-Nov-16,23-Nov-16,2,1,21,83,220,0,0
+Myles Turner,21-Nov-16,23-Nov-16,2,1,20,83,243,0,0
+Jonas Valanciunas,9-May-16,23-May-16,14,1,24,84,265,0,0
+Stephen Curry,18-Apr-16,24-Apr-16,6,1,28,75,190,0,0
+Kyrie Irving,3-Apr-16,5-Apr-16,2,1,24,75,193,0,0
+Jae Crowder,15-Mar-16,31-Mar-16,16,1,26,78,235,0,0
+Alex Len,19-Feb-16,21-Feb-16,2,1,23,85,260,0,0
+Carmelo Anthony,13-Jan-16,18-Jan-16,5,1,32,80,240,0,0
+D'Angelo Russell,8-Jan-16,12-Jan-16,4,1,20,77,195,0,0
+Austin Rivers,26-Dec-15,28-Dec-15,2,1,23,76,200,0,0
+Carmelo Anthony,23-Dec-15,26-Dec-15,3,1,31,80,240,1,0
+Kyle O'Quinn,21-Dec-15,26-Dec-15,5,1,25,82,250,1,0
+Jordan Clarkson,11-Dec-15,15-Dec-15,4,1,23,77,194,0,0
+Klay Thompson,11-Dec-15,12-Dec-15,1,1,25,79,215,0,1
+J.J. Barea,28-Nov-15,9-Dec-15,11,1,31,72,185,0,0
+Seth Curry,9-Nov-15,13-Nov-15,4,1,25,74,185,0,0
+Jeremy Lamb,28-Oct-15,30-Oct-15,2,1,23,77,185,0,0
+Aron Baynes,24-Mar-15,28-Mar-15,4,1,29,82,260,0,0
+Dwight Howard,28-Jan-15,25-Mar-15,56,1,30,83,265,0,0
+Klay Thompson,18-Mar-15,23-Mar-15,5,1,25,79,215,1,0
+Alex Len,14-Mar-15,21-Mar-15,7,1,22,85,260,1,2
+Jusuf Nurkic,27-Feb-15,13-Mar-15,14,1,21,84,280,0,0
+Alex Len,7-Mar-15,9-Mar-15,2,1,22,85,260,1,1
+Aaron Gordon,27-Feb-15,4-Mar-15,5,1,20,81,220,0,0
+Kelly Olynyk,23-Jan-15,4-Mar-15,40,1,24,84,238,0,0
+Alex Len,6-Feb-15,20-Feb-15,14,1,22,85,260,1,0
+Ian Mahinmi,8-Feb-15,11-Feb-15,3,1,29,83,250,0,0
+Hassan Whiteside,21-Jan-15,25-Jan-15,4,1,26,84,265,0,0
+Joakim Noah,16-Jan-15,23-Jan-15,7,1,30,83,230,0,0
+DeMarcus Cousins,17-Jan-15,19-Jan-15,2,1,25,83,270,0,0
+Mike Conley,16-Jan-15,19-Jan-15,3,1,28,73,175,0,0
+Enes Kanter,3-Jan-15,10-Jan-15,7,1,23,83,245,0,0
+Taj Gibson,18-Dec-14,22-Dec-14,4,1,29,81,225,0,0
+Joakim Noah,10-Dec-14,18-Dec-14,8,1,29,83,230,1,0
+Derrick Favors,14-Dec-14,17-Dec-14,3,1,23,82,265,0,0
+Reggie Bullock,3-Dec-14,13-Dec-14,10,1,23,79,205,0,0
+James Johnson,21-Nov-14,24-Nov-14,3,1,27,81,250,0,0
+Reggie Jackson,29-Oct-14,3-Nov-14,5,1,24,75,208,0,0
+Mike Conley,1-Feb-14,18-Feb-14,17,1,27,73,175,1,0
+Tyler Zeller,14-Dec-13,17-Dec-13,3,1,23,84,253,0,1
+Enes Kanter,25-Nov-13,29-Nov-13,4,1,21,83,245,0,0
+Kyle O'Quinn,24-Nov-13,26-Nov-13,2,1,23,82,250,0,0
+Tyler Zeller,20-Nov-13,22-Nov-13,2,1,23,84,253,1,0
+LaMarcus Aldridge,29-Mar-13,5-Apr-13,7,1,28,83,260,0,0
+Wesley Matthews,19-Feb-13,22-Feb-13,3,1,27,77,220,0,0
+Stephen Curry,31-Jan-13,2-Feb-13,2,1,25,75,190,0,0
+Ersan Ilyasova,5-Jan-13,8-Jan-13,3,1,26,82,235,0,0
+Derrick Rose,10-Apr-12,12-Apr-12,2,1,24,75,190,0,0
+Stephen Curry,6-Jan-12,20-Jan-12,14,1,24,75,190,1,0
+Stephen Curry,28-Dec-11,31-Dec-11,3,1,23,75,190,1,0
+Joakim Noah,30-Mar-11,5-Apr-11,6,1,26,83,230,0,0
+Tyson Chandler,4-Mar-11,9-Mar-11,5,1,29,85,240,0,0
+Trevor Ariza,7-Feb-11,11-Feb-11,4,1,26,80,215,0,0
+Ben Simmons,20-Mar-21,21-Mar-21,1,2,25,82,230,0,1
+Jeremy Lamb,15-Mar-21,19-Mar-21,4,2,29,77,185,0,1
+Bradley Beal,13-Mar-21,14-Mar-21,1,2,28,77,207,0,0
+Terrence Ross,11-Mar-21,14-Mar-21,3,2,30,79,206,0,0
+Eric Gordon,1-Mar-21,11-Mar-21,10,2,33,76,215,0,0
+Jeremy Lamb,1-Mar-21,3-Mar-21,2,2,29,77,185,1,0
+Jaylen Brown,28-Feb-21,2-Mar-21,2,2,25,79,225,0,1
+Jaylen Brown,5-Feb-21,9-Feb-21,4,2,25,79,225,1,0
+Nerlens Noel,6-Feb-21,9-Feb-21,3,2,27,83,228,0,0
+Jamal Murray,6-Feb-21,8-Feb-21,2,2,24,76,207,0,0
+Derrick Rose,23-Jan-21,27-Jan-21,4,2,33,75,190,0,1
+John Wall,18-Jan-21,23-Jan-21,5,2,31,76,195,0,0
+Derrick Rose,10-Jan-21,16-Jan-21,6,2,33,75,190,1,0
+Rajon Rondo,5-Jan-21,15-Jan-21,10,2,35,73,186,0,0
+Ben Simmons,9-Jan-21,12-Jan-21,3,2,25,82,230,1,0
+Christian Wood,6-Jan-21,8-Jan-21,2,2,26,83,220,0,0
+LaMarcus Aldridge,30-Dec-20,5-Jan-21,6,2,35,83,260,0,0
+Rajon Rondo,31-Dec-20,4-Jan-21,4,2,34,73,186,1,0
+Emmanuel Mudiay,13-Aug-20,17-Aug-20,4,2,24,77,200,0,1
+Al Horford,11-Aug-20,12-Aug-20,1,2,34,82,245,0,1
+Emmanuel Mudiay,8-Aug-20,9-Aug-20,1,2,24,77,200,1,0
+Kemba Walker,21-Feb-20,3-Mar-20,11,2,30,73,172,0,2
+Terry Rozier,12-Feb-20,20-Feb-20,8,2,26,74,190,0,0
+Brandon Knight,7-Feb-20,10-Feb-20,3,2,29,75,189,0,1
+Kemba Walker,1-Feb-20,7-Feb-20,6,2,30,73,172,1,1
+Brandon Knight,17-Jan-20,4-Feb-20,18,2,29,75,189,1,0
+Al Horford,30-Jan-20,1-Feb-20,2,2,34,82,245,1,0
+Kemba Walker,18-Jan-20,20-Jan-20,2,2,30,73,172,1,0
+Domantas Sabonis,10-Jan-20,13-Jan-20,3,2,24,83,240,0,0
+Joel Embiid,31-Dec-19,2-Jan-20,2,2,25,84,250,0,0
+Blake Griffin,20-Dec-19,23-Dec-19,3,2,30,82,251,0,3
+Derrick Rose,21-Dec-19,23-Dec-19,2,2,31,75,190,0,0
+Blake Griffin,16-Dec-19,18-Dec-19,2,2,30,82,251,1,2
+Al Horford,13-Dec-19,15-Dec-19,2,2,33,82,245,1,3
+Patrick McCaw,21-Oct-19,28-Oct-19,7,2,24,79,185,0,0
+Blake Griffin,10-Apr-19,20-Apr-19,10,2,30,82,251,1,1
+Joel Embiid,18-Apr-19,20-Apr-19,2,2,25,84,250,1,2
+Al Horford,9-Apr-19,14-Apr-19,5,2,33,82,245,1,2
+Joel Embiid,9-Apr-19,13-Apr-19,4,2,25,84,250,1,1
+Draymond Green,10-Apr-19,12-Apr-19,2,2,29,79,230,0,0
+Blake Griffin,1-Apr-19,5-Apr-19,4,2,30,82,251,1,0
+Rodney McGruder,18-Mar-19,3-Apr-19,16,2,28,76,205,0,0
+Al Horford,30-Mar-19,1-Apr-19,2,2,33,82,245,1,1
+Al Horford,23-Mar-19,26-Mar-19,3,2,33,82,245,1,0
+Joel Embiid,21-Feb-19,10-Mar-19,17,2,25,84,250,1,0
+Evan Turner,23-Feb-19,5-Mar-19,10,2,31,79,220,0,0
+Terry Rozier,27-Feb-19,1-Mar-19,2,2,25,74,190,1,0
+Jeff Teague,27-Feb-19,28-Feb-19,1,2,31,74,186,0,0
+Kawhi Leonard,13-Feb-19,22-Feb-19,9,2,28,79,230,0,1
+DeMarre Carroll,11-Feb-19,13-Feb-19,2,2,33,80,215,0,1
+JaMychal Green,7-Feb-19,9-Feb-19,2,2,29,81,227,0,1
+Kawhi Leonard,7-Feb-19,9-Feb-19,2,2,28,79,230,1,0
+Mike Conley,1-Feb-19,3-Feb-19,2,2,32,73,175,0,0
+JaMychal Green,28-Jan-19,30-Jan-19,2,2,29,81,227,1,0
+Brandon Knight,16-Jan-19,21-Jan-19,5,2,28,75,189,1,0
+Jamal Crawford,15-Jan-19,20-Jan-19,5,2,39,77,200,0,0
+DeMarre Carroll,7-Jan-19,9-Jan-19,2,2,33,80,215,1,0
+Dewayne Dedmon,29-Dec-18,2-Jan-19,4,2,29,84,245,0,0
+Joel Embiid,30-Dec-18,1-Jan-19,2,2,24,84,250,1,0
+Jamal Crawford,26-Dec-18,28-Dec-18,2,2,38,77,200,1,1
+Al Horford,10-Dec-18,23-Dec-18,13,2,32,82,245,1,1
+Matthew Dellavedova,19-Dec-18,21-Dec-18,2,2,28,76,198,0,0
+Jamal Crawford,10-Dec-18,13-Dec-18,3,2,38,77,200,1,0
+Al Horford,23-Nov-18,24-Nov-18,1,2,32,82,245,1,0
+Derrick Rose,14-Nov-18,16-Nov-18,2,2,30,75,190,0,0
+Derrick Favors,28-Oct-18,31-Oct-18,3,2,27,82,265,0,1
+Andre Iguodala,8-Apr-18,14-Apr-18,6,2,34,78,215,0,1
+Andre Iguodala,31-Mar-18,7-Apr-18,7,2,34,78,215,1,0
+Derrick Favors,20-Mar-18,22-Mar-18,2,2,27,82,265,1,0
+James Harden,11-Mar-18,12-Mar-18,1,2,29,77,220,0,0
+Kyrie Irving,5-Mar-18,8-Mar-18,3,2,26,75,193,0,0
+Cody Zeller,28-Feb-18,4-Mar-18,4,2,26,84,240,0,0
+Lonzo Ball,24-Feb-18,26-Feb-18,2,2,21,78,190,0,0
+Paul George,29-Dec-17,31-Dec-17,2,2,27,81,220,0,0
+J.R. Smith,21-Dec-17,25-Dec-17,4,2,32,78,225,0,0
+Kristaps Porzingis,16-Dec-17,21-Dec-17,5,2,22,87,240,0,0
+Serge Ibaka,17-Dec-17,20-Dec-17,3,2,28,82,235,0,0
+Andre Iguodala,1-Dec-17,4-Dec-17,3,2,33,78,215,1,1
+Andre Iguodala,16-May-17,20-May-17,4,2,33,78,215,1,0
+Doug McDermott,11-Apr-17,16-Apr-17,5,2,25,80,225,0,0
+Carmelo Anthony,7-Apr-17,12-Apr-17,5,2,33,80,240,0,2
+Derrick Favors,10-Apr-17,12-Apr-17,2,2,26,82,265,1,0
+Andre Roberson,7-Apr-17,9-Apr-17,2,2,26,79,210,0,0
+Paul Millsap,7-Apr-17,9-Apr-17,2,2,32,80,246,0,0
+D'Angelo Russell,5-Apr-17,7-Apr-17,2,2,21,77,195,0,0
+P.J. Tucker,2-Apr-17,4-Apr-17,2,2,32,78,245,0,0
+Carmelo Anthony,25-Mar-17,27-Mar-17,2,2,33,80,240,1,1
+Nerlens Noel,10-Mar-17,15-Mar-17,5,2,23,83,228,0,0
+Carmelo Anthony,6-Mar-17,8-Mar-17,2,2,33,80,240,1,0
+JaMychal Green,25-Jan-17,27-Jan-17,2,2,27,81,227,0,0
+Patrick Patterson,20-Jan-17,22-Jan-17,2,2,28,81,230,0,0
+Derrick Favors,17-Nov-16,14-Dec-16,27,2,25,82,265,1,1
+D'Angelo Russell,22-Nov-16,11-Dec-16,19,2,20,77,195,1,1
+D'Angelo Russell,18-Nov-16,20-Nov-16,2,2,20,77,195,1,0
+Derrick Favors,24-Oct-16,28-Oct-16,4,2,25,82,265,1,0
+Carmelo Anthony,5-Feb-16,7-Feb-16,2,2,32,80,240,0,1
+Kemba Walker,3-Feb-16,5-Feb-16,2,2,26,73,172,0,0
+Carmelo Anthony,25-Jan-16,29-Jan-16,4,2,32,80,240,1,0
+Lance Thomas,19-Jan-16,26-Jan-16,7,2,28,80,235,0,0
+Spencer Dinwiddie,25-Nov-15,27-Nov-15,2,2,22,78,200,0,0
+Eric Bledsoe,23-Nov-15,25-Nov-15,2,2,26,73,205,0,0
+Joakim Noah,9-Nov-15,13-Nov-15,4,2,30,83,230,0,1
+Joakim Noah,15-Apr-15,18-Apr-15,3,2,30,83,230,1,0
+Carmelo Anthony,24-Jan-15,28-Jan-15,4,2,31,80,240,1,1
+Carmelo Anthony,4-Jan-15,15-Jan-15,11,2,31,80,240,1,0
+Carmelo Anthony,18-Dec-14,20-Dec-14,2,2,30,80,240,1,1
+Carmelo Anthony,10-Dec-14,12-Dec-14,2,2,30,80,240,1,0
+LeBron James,11-Dec-14,12-Dec-14,1,2,30,80,250,0,0
+Kyle Lowry,2-Apr-14,9-Apr-14,7,2,28,72,205,0,0
+Dion Waiters,31-Mar-13,10-Apr-13,10,2,22,76,225,0,0
+Kawhi Leonard,3-Apr-13,4-Apr-13,1,2,22,79,230,0,0
+Taj Gibson,2-Mar-13,21-Mar-13,19,2,28,81,225,0,0
+Terrence Ross,21-Mar-21,30-Mar-21,9,3,30,79,206,0,0
+Hassan Whiteside,25-Mar-21,26-Mar-21,1,3,32,84,265,0,0
+Abdel Nader,15-Mar-21,18-Mar-21,3,3,28,78,230,0,0
+Timothe Luwawu-Cabarrot,1-Mar-21,15-Mar-21,14,3,26,78,205,0,0
+Malcolm Brogdon,27-Feb-21,1-Mar-21,2,3,29,77,215,0,0
+Davis Bertans,25-Feb-21,27-Feb-21,2,3,29,82,210,0,0
+Richaun Holmes,15-Feb-21,21-Feb-21,6,3,28,82,245,0,0
+Doug McDermott,15-Feb-21,17-Feb-21,2,3,29,80,225,0,0
+Patrick Beverley,25-Jan-21,10-Feb-21,16,3,33,73,185,0,0
+Joel Embiid,15-Jan-21,19-Jan-21,4,3,27,84,250,0,0
+Mike Conley,12-Aug-20,21-Aug-20,9,3,33,73,175,0,1
+Anthony Davis,13-Aug-20,18-Aug-20,5,3,27,82,253,0,1
+Bam Adebayo,14-Aug-20,18-Aug-20,4,3,23,82,243,0,0
+OG Anunoby,12-Aug-20,17-Aug-20,5,3,23,80,232,0,0
+Eric Bledsoe,11-Aug-20,12-Aug-20,1,3,31,73,205,0,0
+Jerami Grant,10-Aug-20,12-Aug-20,2,3,26,80,210,0,0
+Doug McDermott,6-Aug-20,8-Aug-20,2,3,28,80,225,1,0
+Mike Conley,6-Aug-20,8-Aug-20,2,3,33,73,175,1,0
+Mike Scott,1-Aug-20,7-Aug-20,6,3,32,80,237,0,0
+Dwight Howard,5-Aug-20,6-Aug-20,1,3,35,83,265,0,0
+Frank Kaminsky,1-Jan-20,31-Jul-20,212,3,27,84,242,0,0
+Eric Gordon,7-Mar-20,10-Mar-20,3,3,32,76,215,0,1
+Victor Oladipo,2-Mar-20,6-Mar-20,4,3,28,76,210,0,0
+Serge Ibaka,28-Feb-20,5-Mar-20,6,3,31,82,235,0,0
+Anthony Davis,1-Mar-20,3-Mar-20,2,3,27,82,253,1,0
+Davis Bertans,24-Feb-20,26-Feb-20,2,3,28,82,210,1,0
+Tyler Johnson,3-Feb-20,11-Feb-20,8,3,28,76,186,0,0
+Derrick Rose,27-Jan-20,29-Jan-20,2,3,32,75,190,0,0
+Jae Crowder,26-Jan-20,29-Jan-20,3,3,30,78,235,0,0
+Kristaps Porzingis,31-Dec-19,21-Jan-20,21,3,24,87,240,0,0
+Brandon Ingram,13-Jan-20,16-Jan-20,3,3,23,81,190,0,0
+Jayson Tatum,15-Jan-20,16-Jan-20,1,3,22,80,205,0,0
+Daniel Theis,13-Jan-20,15-Jan-20,2,3,28,81,215,0,0
+Eric Gordon,9-Jan-20,11-Jan-20,2,3,32,76,215,1,0
+Ersan Ilyasova,10-Jan-20,11-Jan-20,1,3,33,82,235,0,0
+Marvin Williams,8-Dec-19,17-Dec-19,9,3,33,81,237,0,0
+Brandon Ingram,11-Nov-19,19-Nov-19,8,3,22,81,190,1,0
+Dwayne Bacon,13-Nov-19,16-Nov-19,3,3,24,78,222,0,0
+Terrence Ross,6-Nov-19,10-Nov-19,4,3,28,79,206,0,0
+Derrick Favors,28-Oct-19,4-Nov-19,7,3,28,82,265,0,0
+Kadeem Allen,23-Oct-19,1-Nov-19,9,3,26,75,192,0,0
+Kyle Korver,1-Apr-19,14-Apr-19,13,3,38,79,212,0,0
+Klay Thompson,9-Apr-19,10-Apr-19,1,3,29,79,215,0,1
+Furkan Korkmaz,25-Feb-19,9-Apr-19,43,3,22,79,185,0,1
+Joakim Noah,22-Mar-19,23-Mar-19,1,3,34,83,230,0,0
+Klay Thompson,5-Mar-19,8-Mar-19,3,3,29,79,215,1,0
+Eric Gordon,28-Feb-19,3-Mar-19,3,3,31,76,215,1,1
+Giannis Antetokounmpo,25-Feb-19,27-Feb-19,2,3,25,83,222,0,1
+Furkan Korkmaz,13-Feb-19,21-Feb-19,8,3,22,79,185,1,0
+Giannis Antetokounmpo,9-Feb-19,11-Feb-19,2,3,25,83,222,1,0
+Eric Gordon,4-Feb-19,6-Feb-19,2,3,31,76,215,1,0
+Damian Lillard,26-Jan-19,30-Jan-19,4,3,29,75,195,0,0
+David Nwaba,30-Nov-18,12-Dec-18,12,3,25,76,209,0,1
+Victor Oladipo,19-Nov-18,12-Dec-18,23,3,26,76,210,0,0
+Robert Covington,8-Dec-18,10-Dec-18,2,3,28,81,215,0,0
+Maxi Kleber,2-Dec-18,4-Dec-18,2,3,26,82,220,0,0
+David Nwaba,26-Nov-18,28-Nov-18,2,3,25,76,209,1,0
+Ersan Ilyasova,26-Nov-18,28-Nov-18,2,3,31,82,235,0,0
+Serge Ibaka,14-Nov-18,16-Nov-18,2,3,29,82,235,0,0
+Tyus Jones,23-Apr-18,25-Apr-18,2,3,22,74,195,0,0
+Goran Dragic,11-Apr-18,14-Apr-18,3,3,32,75,190,0,0
+LaMarcus Aldridge,12-Mar-18,13-Mar-18,1,3,33,83,260,0,1
+LaMarcus Aldridge,12-Feb-18,23-Feb-18,11,3,33,83,260,1,0
+Ben McLemore,26-Jan-18,31-Jan-18,5,3,25,77,195,0,0
+Jimmy Butler,20-Jan-18,27-Jan-18,7,3,29,80,236,0,0
+Giannis Antetokounmpo,20-Jan-18,26-Jan-18,6,3,24,83,222,0,0
+Victor Oladipo,27-Dec-17,6-Jan-18,10,3,25,76,210,1,0
+Jaylen Brown,27-Dec-17,31-Dec-17,4,3,21,79,225,0,0
+JaMychal Green,23-Dec-17,30-Dec-17,7,3,27,81,227,0,0
+Giannis Antetokounmpo,23-Dec-17,26-Dec-17,3,3,23,83,222,1,1
+Ian Mahinmi,12-Dec-17,15-Dec-17,3,3,31,83,250,0,0
+Giannis Antetokounmpo,22-Nov-17,25-Nov-17,3,3,23,83,222,1,0
+Thabo Sefolosha,17-Nov-17,18-Nov-17,1,3,33,79,220,0,0
+Patrick Beverley,10-Nov-17,17-Nov-17,7,3,29,73,185,0,0
+Rodney Hood,9-Apr-17,12-Apr-17,3,3,25,80,206,0,3
+Derrick Favors,8-Mar-17,7-Apr-17,30,3,26,82,265,0,0
+Rodney Hood,4-Apr-17,7-Apr-17,3,3,25,80,206,1,2
+Jahlil Okafor,20-Mar-17,22-Mar-17,2,3,22,83,275,0,2
+Rodney Hood,16-Mar-17,20-Mar-17,4,3,25,80,206,1,1
+Robert Covington,12-Mar-17,14-Mar-17,2,3,27,81,215,0,0
+Jahlil Okafor,4-Mar-17,9-Mar-17,5,3,22,83,275,1,1
+Rodney Hood,1-Mar-17,5-Mar-17,4,3,25,80,206,1,0
+Caris LeVert,5-Feb-17,8-Feb-17,3,3,23,79,203,0,0
+Ian Mahinmi,28-Nov-16,8-Feb-17,72,3,30,83,250,1,0
+LaMarcus Aldridge,2-Feb-17,4-Feb-17,2,3,32,83,260,1,0
+Jahlil Okafor,24-Jan-17,30-Jan-17,6,3,22,83,275,1,0
+Kent Bazemore,7-Dec-16,13-Dec-16,6,3,27,77,201,0,0
+Blake Griffin,10-Dec-16,12-Dec-16,2,3,27,82,251,0,0
+Zach LaVine,13-Nov-16,15-Nov-16,2,3,21,77,189,0,0
+Derrick Favors,1-Apr-16,3-Apr-16,2,3,25,82,265,1,0
+Hassan Whiteside,4-Jan-16,6-Jan-16,2,3,27,84,265,0,0
+Doug McDermott,28-Dec-15,30-Dec-15,2,3,23,80,225,0,0
+Nerlens Noel,27-Nov-15,1-Dec-15,4,3,21,83,228,0,0
+Carmelo Anthony,14-Mar-13,20-Mar-13,6,3,29,80,240,0,1
+Carmelo Anthony,6-Mar-13,11-Mar-13,5,3,29,80,240,1,0
+Eric Bledsoe,1-Feb-12,11-Feb-12,10,3,23,73,205,0,0
+Alex Caruso,13-Mar-21,18-Mar-21,5,5,27,77,186,0,0
+Nicolas Batum,15-Feb-21,19-Feb-21,4,5,33,80,200,0,0
+Mike Muscala,7-Feb-21,10-Feb-21,3,5,30,83,240,0,0
+Donovan Mitchell,27-Jan-21,31-Jan-21,4,5,25,75,211,0,0
+Robert Covington,29-Jan-21,30-Jan-21,1,5,31,81,215,0,0
+Abdel Nader,22-Dec-20,5-Jan-21,14,5,27,78,230,0,0
+Blake Griffin,31-Dec-20,3-Jan-21,3,5,31,82,251,0,0
+Mike Muscala,4-Aug-20,8-Aug-20,4,5,29,83,240,1,0
+Jae Crowder,7-Mar-20,11-Mar-20,4,5,30,78,235,0,0
+Josh Richardson,3-Mar-20,10-Mar-20,7,5,27,78,200,0,0
+T.J. Warren,3-Feb-20,8-Feb-20,5,5,27,80,230,0,0
+Malcolm Brogdon,24-Jan-20,29-Jan-20,5,5,28,77,215,0,0
+Patrick Beverley,13-Dec-19,17-Dec-19,4,5,31,73,185,0,0
+Justise Winslow,7-Nov-19,27-Nov-19,20,5,23,79,225,0,0
+Clint Capela,15-Nov-19,18-Nov-19,3,5,25,82,240,0,0
+Jonathan Isaac,10-Apr-19,13-Apr-19,3,5,22,82,210,0,0
+OG Anunoby,28-Mar-19,5-Apr-19,8,5,22,80,232,0,0
+Gordon Hayward,18-Mar-19,24-Mar-19,6,5,29,80,226,0,0
+Ante Zizic,3-Mar-19,8-Mar-19,5,5,22,83,250,0,0
+Andre Drummond,19-Jan-19,25-Jan-19,6,5,26,83,279,0,0
+Nerlens Noel,10-Jan-19,17-Jan-19,7,5,25,83,228,0,0
+Ersan Ilyasova,1-Dec-18,7-Dec-18,6,5,31,82,235,0,0
+Davis Bertans,19-Nov-18,21-Nov-18,2,5,26,82,210,0,0
+Markieff Morris,30-Oct-18,2-Nov-18,3,5,29,82,245,0,0
+Giannis Antetokounmpo,29-Oct-18,1-Nov-18,3,5,24,83,222,0,0
+Troy Daniels,19-Oct-18,22-Oct-18,3,5,27,76,205,0,0
+Kevin Love,26-May-18,31-May-18,5,5,30,82,251,0,1
+Ian Mahinmi,6-Apr-18,10-Apr-18,4,5,32,83,250,0,0
+Kevin Love,28-Mar-18,30-Mar-18,2,5,30,82,251,1,0
+Tony Bradley,13-Mar-18,27-Mar-18,14,5,20,83,240,0,0
+Jaylen Brown,11-Mar-18,25-Mar-18,14,5,22,79,225,0,0
+Aaron Gordon,9-Mar-18,19-Mar-18,10,5,23,81,220,0,0
+Terrance Ferguson,10-Mar-18,12-Mar-18,2,5,20,79,184,0,0
+Kris Dunn,20-Jan-18,14-Feb-18,25,5,24,76,210,0,0
+Al Horford,24-Jan-18,27-Jan-18,3,5,32,82,245,0,0
+Jamal Murray,17-Jan-18,19-Jan-18,2,5,21,76,207,0,0
+Raul Neto,13-Dec-17,15-Jan-18,33,5,25,73,179,0,0
+Blake Griffin,8-Jan-18,11-Jan-18,3,5,29,82,251,0,0
+Derrick Favors,18-Dec-17,20-Dec-17,2,5,26,82,265,0,0
+Steven Adams,16-Dec-17,20-Dec-17,4,5,24,84,255,0,1
+Austin Rivers,15-Dec-17,18-Dec-17,3,5,25,76,200,0,0
+Aaron Gordon,13-Dec-17,15-Dec-17,2,5,22,81,220,1,0
+Patrick McCaw,8-Dec-17,11-Dec-17,3,5,22,79,185,0,0
+Al Horford,8-Nov-17,12-Nov-17,4,5,31,82,245,1,0
+Myles Turner,20-Oct-17,3-Nov-17,14,5,21,83,243,0,0
+Kawhi Leonard,11-Mar-17,13-Mar-17,2,5,26,79,230,0,0
+Steven Adams,16-Jan-17,23-Jan-17,7,5,24,84,255,1,0
+Richaun Holmes,13-Jan-17,21-Jan-17,8,5,24,82,245,0,0
+Cody Zeller,2-Jan-17,7-Jan-17,5,5,25,84,240,0,0
+George Hill,5-Jan-17,7-Jan-17,2,5,31,75,188,0,0
+Richaun Holmes,23-Dec-16,4-Jan-17,12,5,23,82,245,1,0
+Austin Rivers,11-Dec-16,14-Dec-16,3,5,24,76,200,1,0
+Doug McDermott,15-Nov-16,5-Dec-16,20,5,24,80,225,0,1
+Al Horford,2-Nov-16,19-Nov-16,17,5,30,82,245,1,0
+Doug McDermott,2-Nov-16,4-Nov-16,2,5,24,80,225,1,0
+Kevin Love,8-Jun-16,10-Jun-16,2,5,28,82,251,0,0
+Aaron Gordon,8-Apr-16,13-Apr-16,5,5,21,81,220,0,0
+Robert Covington,12-Mar-16,23-Mar-16,11,5,26,81,215,0,0
+Jerami Grant,12-Mar-16,17-Mar-16,5,5,22,80,210,0,0
+Lance Thomas,7-Feb-16,9-Feb-16,2,5,28,80,235,0,0
+Cameron Payne,29-Jan-16,1-Feb-16,3,5,22,75,185,0,0
+Anthony Davis,25-Jan-16,30-Jan-16,5,5,23,82,253,0,0
+Gary Harris,3-Dec-15,11-Dec-15,8,5,21,76,210,0,0
+Victor Oladipo,13-Nov-15,18-Nov-15,5,5,23,76,210,0,0
+Patrick Beverley,6-Nov-15,11-Nov-15,5,5,27,73,185,0,0
+Rudy Gay,3-Apr-15,7-Apr-15,4,5,29,80,230,0,0
+Rodney Hood,1-Apr-15,4-Apr-15,3,5,23,80,206,0,0
+Marvin Williams,28-Jan-15,2-Feb-15,5,5,29,81,237,0,0
+Ersan Ilyasova,26-Dec-14,15-Jan-15,20,5,27,82,235,0,0
+Courtney Lee,1-Nov-14,5-Nov-14,4,5,29,77,200,0,0
+Wayne Ellington,28-Oct-14,29-Oct-14,1,5,27,76,200,0,0
+Stephen Curry,20-Nov-13,23-Nov-13,3,5,25,75,190,0,0
+George Hill,16-May-13,18-May-13,2,5,27,75,188,0,0
+Michael Kidd-Gilchrist,4-Feb-13,8-Feb-13,4,5,20,79,232,0,0
+Kyrie Irving,10-Feb-12,15-Feb-12,5,5,20,75,193,0,0
+Ersan Ilyasova,13-Mar-11,8-Apr-11,26,5,24,82,235,0,0
+Chris Paul,9-Mar-11,12-Mar-11,3,5,26,72,175,0,0
+LeBron James,3-Mar-21,12-Mar-21,9,6,37,80,250,0,0
+Draymond Green,4-Mar-21,10-Mar-21,6,6,31,79,230,0,0
+Seth Curry,23-Feb-21,25-Feb-21,2,6,31,74,185,0,0
+Abdel Nader,7-Feb-21,13-Feb-21,6,6,28,78,230,0,0
+Goran Dragic,14-Aug-20,18-Aug-20,4,6,34,75,190,0,0
+Victor Oladipo,14-Aug-20,18-Aug-20,4,6,28,76,210,0,0
+Danilo Gallinari,28-Feb-20,2-Mar-20,3,6,32,82,225,0,0
+Nerlens Noel,20-Jan-20,22-Jan-20,2,6,26,83,228,0,0
+Jae Crowder,29-Dec-19,2-Jan-20,4,6,29,78,235,0,0
+Danilo Gallinari,22-Dec-19,31-Dec-19,9,6,31,82,225,1,3
+Jae Crowder,14-Dec-19,16-Dec-19,2,6,29,78,235,1,0
+DeAndre Jordan,25-Nov-19,29-Nov-19,4,6,31,83,265,0,0
+D.J. Wilson,19-May-19,21-May-19,2,6,23,82,234,0,0
+Raul Neto,5-Apr-19,14-Apr-19,9,6,27,73,179,0,0
+Rudy Gobert,10-Apr-19,14-Apr-19,4,6,27,85,245,0,0
+Aron Baynes,9-Apr-19,13-Apr-19,4,6,33,82,260,0,0
+Gordon Hayward,9-Apr-19,13-Apr-19,4,6,29,80,226,0,0
+Danilo Gallinari,7-Apr-19,10-Apr-19,3,6,31,82,225,1,2
+Danilo Gallinari,30-Mar-19,31-Mar-19,1,6,31,82,225,1,1
+Danilo Gallinari,12-Mar-19,15-Mar-19,3,6,31,82,225,1,0
+DeMar DeRozan,18-Jan-19,20-Jan-19,2,6,30,79,221,0,0
+Joel Embiid,11-Jan-19,13-Jan-19,2,6,25,84,250,0,0
+J.J. Barea,5-Jan-19,7-Jan-19,2,6,35,72,185,0,0
+Derrick Rose,23-Dec-18,26-Dec-18,3,6,30,75,190,0,1
+Gary Harris,24-Nov-18,30-Nov-18,6,6,24,76,210,0,0
+Gordon Hayward,24-Nov-18,26-Nov-18,2,6,28,80,226,1,0
+Myles Turner,23-Nov-18,26-Nov-18,3,6,22,83,243,0,0
+Kawhi Leonard,4-Nov-18,7-Nov-18,3,6,27,79,230,0,0
+Derrick Rose,4-Nov-18,5-Nov-18,1,6,30,75,190,1,0
+Wayne Ellington,17-Oct-18,27-Oct-18,10,6,31,76,200,0,0
+Jared Dudley,30-Mar-18,6-Apr-18,7,6,33,79,225,0,0
+Eric Bledsoe,1-Feb-18,2-Feb-18,1,6,29,73,205,0,0
+Rodney Hood,7-Dec-17,13-Dec-17,6,6,25,80,206,0,1
+Rodney Hood,1-Dec-17,7-Dec-17,6,6,25,80,206,0,0
+Aaron Gordon,20-Oct-17,24-Oct-17,4,6,22,81,220,0,0
+DeMarre Carroll,11-Mar-17,16-Mar-17,5,6,31,80,215,0,0
+Will Barton,1-Feb-17,3-Feb-17,2,6,26,78,175,0,0
+Taj Gibson,29-Jan-17,1-Feb-17,3,6,32,81,225,0,1
+Taj Gibson,17-Jan-17,20-Jan-17,3,6,32,81,225,1,0
+Lance Thomas,14-Nov-16,2-Dec-16,18,6,28,80,235,0,0
+Will Barton,25-Nov-16,27-Nov-16,2,6,25,78,175,1,0
+Paul George,18-Nov-16,23-Nov-16,5,6,26,81,220,0,0
+Nicolas Batum,13-Apr-16,17-Apr-16,4,6,28,80,200,0,0
+Patrick Patterson,20-Mar-16,25-Mar-16,5,6,27,81,230,0,0
+Tobias Harris,7-Feb-16,19-Feb-16,12,6,24,81,235,0,0
+Derrick Rose,18-Nov-15,24-Nov-15,6,6,27,75,190,0,0
+Jeff Teague,15-Nov-15,21-Nov-15,6,6,27,74,186,0,0
+Dewayne Dedmon,27-Mar-15,1-Apr-15,5,6,26,84,245,0,0
+Taj Gibson,1-Mar-15,20-Mar-15,19,6,30,81,225,0,0
+Nikola Vucevic,6-Mar-15,10-Mar-15,4,6,25,84,260,0,0
+Victor Oladipo,8-Mar-14,10-Mar-14,2,6,22,76,210,0,0
+Bradley Beal,29-Mar-13,31-Mar-13,2,6,20,77,207,0,0
+Wilson Chandler,11-Apr-11,13-Apr-11,2,6,24,80,225,0,0
+Kemba Walker,27-Mar-21,29-Mar-21,2,7,31,73,172,0,7
+Blake Griffin,24-Mar-21,25-Mar-21,1,7,32,82,251,0,4
+Kemba Walker,22-Mar-21,23-Mar-21,1,7,31,73,172,1,6
+Blake Griffin,10-Mar-21,21-Mar-21,11,7,32,82,251,1,3
+Kemba Walker,17-Mar-21,19-Mar-21,2,7,31,73,172,1,5
+Blake Griffin,14-Feb-21,5-Mar-21,19,7,32,82,251,1,2
+Kemba Walker,24-Feb-21,26-Feb-21,2,7,31,73,172,1,4
+Kemba Walker,17-Feb-21,19-Feb-21,2,7,31,73,172,1,3
+Patrick McCaw,22-Dec-20,19-Feb-21,59,7,25,79,185,0,0
+Kemba Walker,12-Feb-21,14-Feb-21,2,7,31,73,172,1,2
+Derrick Rose,5-Feb-21,9-Feb-21,4,7,33,75,190,0,0
+James Johnson,6-Feb-21,8-Feb-21,2,7,34,81,250,0,0
+Kemba Walker,3-Feb-21,4-Feb-21,1,7,31,73,172,1,1
+Blake Griffin,27-Jan-21,28-Jan-21,1,7,32,82,251,1,1
+Kemba Walker,25-Jan-21,27-Jan-21,2,7,31,73,172,1,0
+Pascal Siakam,24-Jan-21,27-Jan-21,3,7,27,81,230,0,0
+Blake Griffin,23-Jan-21,25-Jan-21,2,7,32,82,251,1,0
+Kemba Walker,23-Dec-20,17-Jan-21,25,7,30,73,172,1,0
+Blake Griffin,27-Dec-20,29-Dec-20,2,7,31,82,251,1,0
+Rondae Hollis-Jefferson,21-Aug-20,23-Aug-20,2,7,25,79,220,0,0
+Kemba Walker,12-Aug-20,17-Aug-20,5,7,30,73,172,1,0
+Kristaps Porzingis,9-Aug-20,11-Aug-20,2,7,25,87,240,0,0
+Andre Roberson,23-Oct-19,31-Jul-20,282,7,28,79,210,0,0
+Jonathan Isaac,3-Jan-20,31-Jul-20,210,7,23,82,210,0,0
+D.J. Augustin,15-Jan-20,21-Feb-20,37,7,33,72,183,0,0
+Bruno Caboclo,14-Jan-20,20-Feb-20,37,7,25,81,218,0,0
+Seth Curry,3-Feb-20,7-Feb-20,4,7,30,74,185,0,0
+Christian Wood,20-Dec-19,23-Dec-19,3,7,24,83,220,0,0
+Hassan Whiteside,2-Nov-19,4-Nov-19,2,7,30,84,265,0,0
+Evan Turner,9-Mar-19,12-Mar-19,3,7,31,79,220,0,0
+Maxi Kleber,6-Mar-19,10-Mar-19,4,7,27,82,220,0,0
+Josh Hart,5-Feb-19,7-Feb-19,2,7,24,77,209,0,0
+Brandon Knight,17-Oct-18,13-Dec-18,57,7,27,75,189,0,0
+Pat Connaughton,10-Dec-18,12-Dec-18,2,7,25,77,206,0,0
+Ante Zizic,5-Dec-18,7-Dec-18,2,7,21,83,250,0,0
+Dwight Powell,19-Nov-18,28-Nov-18,9,7,27,83,240,0,0
+Bogdan Bogdanovic,17-Oct-18,7-Nov-18,21,7,26,78,205,0,0
+Danilo Gallinari,16-Mar-17,24-Mar-17,8,7,29,82,225,0,0
+Reggie Jackson,26-Oct-16,2-Dec-16,37,7,26,75,208,0,0
+Mike Scott,27-Oct-16,30-Nov-16,34,7,28,80,237,0,0
+Kevin Love,10-Mar-16,13-Mar-16,3,7,28,82,251,0,0
+Marcus Smart,22-Nov-15,27-Dec-15,35,7,21,76,220,0,0
+Joakim Noah,11-Mar-15,13-Mar-15,2,7,30,83,230,0,0
+Patrick Patterson,23-Feb-15,24-Feb-15,1,7,26,81,230,0,0
+Kemba Walker,19-Jan-15,21-Jan-15,2,7,25,73,172,0,0
+Nicolas Batum,19-Dec-14,20-Dec-14,1,7,26,80,200,0,0
+Ersan Ilyasova,9-Mar-13,10-Mar-13,1,7,26,82,235,0,0
+Kawhi Leonard,23-Jan-13,25-Jan-13,2,7,22,79,230,0,0
+Nicolas Batum,1-Feb-12,4-Feb-12,3,7,24,80,200,0,0
