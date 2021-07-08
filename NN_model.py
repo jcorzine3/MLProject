@@ -2,6 +2,8 @@
 from numpy import loadtxt
 from keras.models import Sequential
 from keras.layers import Dense
+from matplotlib import pyplot
+
 # load the dataset
 dataset = loadtxt('simple_combined_data.csv', delimiter=',')
 # split into input (X) and output (y) variables
@@ -16,7 +18,10 @@ model.add(Dense(1, activation='sigmoid'))
 model.compile(loss='binary_crossentropy',
               optimizer='adam', metrics=['accuracy'])
 # fit the keras model on the dataset
-model.fit(X, y, epochs=150, batch_size=10)
-# evaluate the keras model
+history = model.fit(X, y, epochs=40, batch_size=10)
+# evaluate the keras model  
 _, accuracy = model.evaluate(X, y)
 print('Accuracy: %.2f' % (accuracy*100))
+
+pyplot.title('Loss Over Epochs')
+pyplot.plot(history.history['loss'], label='train')

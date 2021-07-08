@@ -8,15 +8,15 @@ from matplotlib import pyplot
 from numpy import loadtxt
 
 #load dataset
-dataset = loadtxt('combined_data_reinjury.csv', delimiter=',')
+dataset = loadtxt('combined_data_days_missed.csv', delimiter=',')
 X = dataset[:, 0:5]
 y = dataset[:, 5]
 # standardize dataset
 X = StandardScaler().fit_transform(X)
 y = StandardScaler().fit_transform(y.reshape(len(y),1))[:,0]
 # split into train and test
-n_train = round(X.shape[0]/2)
-#n_train = 600
+#n_train = round(X.shape[0]/2)
+n_train = 600
 trainX, testX = X[:n_train, :], X[n_train:, :]
 trainy, testy = y[:n_train], y[n_train:]
 # define model
