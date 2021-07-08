@@ -6,6 +6,19 @@ In professional basketball, determining when an injured player should return to 
 ### Problem Definition:
 To lessen the divide between the conflicting interests of the team and the player, this project will formulate two models: one that predicts player performance post-injury and one that predicts whether or not a player will re-aggravate a previous injury. These predictive models would allow both the team and the player to make more educated decisions regarding the amount of treatment needed for certain injuries.
 
+### Data Collection:
+Two data sets were used for the models below: one with NBA injury data from 2010 to 2020 and one with attributes (height, weight, birth date, etc.) for all NBA players from 1950 to 2018. Both data sets contain information retrieved from basketball-reference.com and prosportstransactions.com, which seem to be the go-to sources for NBA statistics. Additionally, sample entries from both these data sets are shown below.
+
+![Data 1](/docs/assets/DataCollection1.png)
+
+![Data 2](/docs/assets/DataCollection2.png)
+
+Creating a final conglomerate data set took a few steps. First, the player attribute data set was significantly reduced to include only desired player attributes from 2010 onwards. Then, this player attribute data was paired with each injury data entry to get entries such as the example entries shown below.
+
+![Data 3](/docs/assets/DataCollection3.png)
+
+The “injury type” column gives the numerical encoding of the injury the player sustained. In the entries above, “7” denotes a left knee injury. Additional data was ascertained from the original data sets, such as that seen in the “reinjured” and “times previously injured” columns. The “reinjured” column gives a Boolean output that represents whether or not the player sustained the same injury in the following year. Additionally, the “times previously injured” column gives the number of the times previously that the player sustained that injury. For example, Kemba Walker had 7 previous left knee injuries before sustaining another knee injury on March 27th, 2021.
+
 ### Methods:
 Presently, we have data on all of the injuries that have occured in the NBA from 2010 to 2020. Additionally, we have access to player statistics over the last decade. Cleaning and organizing this data will likely be the most involved and critical part of the model-making process because for each injury, we have to combine the injury data (time missed, injury type, etc.) with the relevant player statistics before and after the injury. We will categorize the data by injury in order to keep variables that are not accounted for in our models as consistent as possible. 
 
