@@ -8,7 +8,7 @@ with open('2010-2018_player_data.csv','r') as player_csv_file:
 
         with open('combined_data.csv','w') as combined_csv_file:
             fieldnames = ['name','injury date','return date','days missed','injury type','age', 'height', 'weight',
-                'reinjured', 'times previously injured']
+                'times previously injured', 'reinjured']
             combined_csv_writer = csv.DictWriter(combined_csv_file, fieldnames=fieldnames, delimiter=',')
 
             combined_csv_writer.writeheader()
@@ -84,5 +84,5 @@ with open('2010-2018_player_data.csv','r') as player_csv_file:
                             total_inches = feet*12 + inches
                             player_entry = {'name': iline['PLAYER'], 'injury date': iline['INJURED ON'], 'return date': iline['RETURNED'],
                                 'days missed': iline['DAYS MISSED'], 'injury type': injury_dict[iline['INJURY TYPE']], 'age': age,'height': total_inches,
-                                'weight': p['weight'], 'reinjured': reinjured, 'times previously injured': num_prev_injuries}
+                                'weight': p['weight'], 'times previously injured': num_prev_injuries, 'reinjured': reinjured}
                             combined_csv_writer.writerow(player_entry)
