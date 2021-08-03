@@ -28,3 +28,6 @@ As of right now, our neural network predicts re-injury within a year with an ave
 ![Data 4](/docs/assets/loss_over_epochs.png)
 
 We experimented with another NN model that used linear regression to predict the number of days a player will be out based on an injury. However, the loss during the testing phase was larger and did not follow that from the training phase. Thus, we have excluded it from this report and plan on improving it for the final report. We believe that the injury types input is messing with the intended output.
+
+### References:
+Lewis, M. (2018). It’s a Hard-Knock Life: Game Load, Fatigue, and Injury Risk in the National Basketball Association. Journal of Athletic Training, 53(5), 503–509. https://doi.org/10.4085/1062-6050-243-17
