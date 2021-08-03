@@ -4,10 +4,11 @@
 In professional basketball, determining when an injured player should return to the team is often a difficult decision that involves conflicting interests. Team pressure may lead to a premature return to action by the player, putting them in a compromised position physically. On the other hand, the player may want more time for recovery than necessary in an attempt to nullify the risk of re-injury and secure their financial future. Across 3 seasons, 56.8% of players have at least 1 game-preventing injury (Lewis, 2018). This indicates the frequency of the dilemma between returning or resting.
 
 ### Problem Definition:
-To lessen the divide between the conflicting interests of the team and the player, this project will formulate two models: one that predicts player performance post-injury and one that predicts whether or not a player will re-aggravate a previous injury. These predictive models would allow both the team and the player to make more educated decisions regarding the amount of treatment needed for certain injuries.
+To lessen the divide between the conflicting interests of the team and the player, this project will formulate a model that predicts whether or not a player will re-aggravate a previous injury. This predictive model will allow both the team and the player to make more educated decisions regarding the amount of treatment needed for certain injuries.
 
 ### Data Collection:
-Two data sets were used for the models below: one with NBA injury data from 2010 to 2020 and one with attributes (height, weight, birth date, etc.) for all NBA players from 1950 to 2018. Both data sets contain information retrieved from basketball-reference.com and prosportstransactions.com, which seem to be the go-to sources for NBA statistics. Additionally, sample entries from both these data sets are shown below.
+Two sets of data were obtained: one with NBA injury data from 2010 to 2020 and one with attributes (height, weight, birth date, etc.) for all NBA players from 1950 to 2018. Both data sets contain information retrieved from basketball-reference.com and prosportstransactions.com, which seem to be the go-to sources for NBA statistics. Additionally, sample entries from both these data sets are shown below.
+
 
 ![Data 1](/docs/assets/DataCollection1.png)
 
